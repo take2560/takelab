@@ -15,6 +15,9 @@ http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_720/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="地上波",NHK総合 (540p Jpnettv)
 http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_540/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="地上波",NHK総合 大阪 (540p Jpnettv)
+http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_540/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="地上波",NHK教育 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -56,7 +59,6 @@ http://cdn.us195.jpnettv.live:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="地上波",MBS毎日放送 (540p Jpnettv)
 http://cdn.us195.jpnettv.live:1935/jptv/kansi_mbs_540/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="地上波",ABCテレビ (540p Jpnettv)
 http://cdn.us195.jpnettv.live:1935/jptv/kansi_abc_asahi_540/playlist.m3u8
@@ -230,6 +232,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="CS",キッズステーション (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="CS",キッズステーション (540p Jpnettv)
+http://cdn.us195.jpnettv.live:1935/jptv/jkids_540/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" group-title="CS",ホームドラマチャンネル (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -242,11 +247,17 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="ChannelNeco.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS",チャンネルNECO (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 tvg-id="ChannelNeco.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS",チャンネルNECO (540p Jpnettv)
+http://cdn.us195.jpnettv.live:1935/jptv/Neco/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CS",ムービープラス (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CS",ムービープラス (540p Jpnettv)
 http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVJapan.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png" group-title="CS",MTV Japan (540p Jpnettv)
+http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MusicOnTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="CS",Music ON TV! (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -271,6 +282,9 @@ http://cdn.us195.jpnettv.live:1935/jptv/Animal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png" group-title="CS",ナショナル ジオグラフィック (540p Jpnettv)
 http://cdn.us195.jpnettv.live:1935/jptv/National_geographic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="CS",ディズニージュニア (540p Jpnettv)
+http://cdn.us195.jpnettv.live:1935/jptv/disney_junior/playlist.m3u8
 
 
 #NEWS
