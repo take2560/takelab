@@ -162,6 +162,12 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (720p Official)
 https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
 
+#EXTINF:-1 group-title="NEWS" tvg-id="NTVNews24.jp" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg", 日テレNEWS24 (1080p television4you)
+https://code.television4you.xyz/getlink/yoitv?id=TUUoaNpgwX_Bs7GXhkkw_g==
+
+#EXTINF:-1 group-title="NEWS" tvg-id="TBSNews.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png", TBSニュースバード  (1080p television4you)
+https://code.television4you.xyz/getlink/yoitv?id=D6eJg7aQZE3DKVZWNTTnYw==
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Htb_logo.svg/2093px-Htb_logo.svg.png" group-title="NEWS",北海道ニュース24 (720p Stream)
 http://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 
@@ -266,7 +272,7 @@ https://cdn.us195.jpnettv.live/jptv/kanto_tv_tokyo_720/playlist.m3u8
 #EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="TEST_DTV",テレビ東京 (540p Jpnettv)
 https://cdn.us195.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="TEST_DTV",テレビ東京 (540p cloudrsst)
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_log]o_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="TEST_DTV",テレビ東京 (540p cloudrsst)
 https://cdnv148.cloudrsst.com/jptv/kanto_tv_tokyo_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="TEST_DTV",テレビ東京 (480p cloudrsst)
