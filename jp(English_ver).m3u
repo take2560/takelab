@@ -86,13 +86,13 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",FUJI TV (720p Jpnettv)
 https://cdn.us195.jpnettv.live/jptv/kanto_fuji_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",FUJI TV (720p Jpnettv)
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",FUJI TV (720p cloudrsst)
 https://cdnv148.cloudrsst.com/jptv/kanto_fuji_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",FUJI TV (540p Jpnettv)
 https://cdn.us195.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",FUJI TV (540p Jpnettv)
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",FUJI TV (540p cloudrsst)
 https://cdnv148.cloudrsst.com/jptv/kanto_fuji_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",FUJI TV (480p redlabmcdn)
