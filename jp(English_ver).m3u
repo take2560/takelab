@@ -965,3 +965,121 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",Weather NEWS (Stream2)
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
+#TEST
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="TEST",NHK General TV (Tokyo)
+https://epg.pm/stream/b642f3e30c0025fad04954b337d0cc147fe1e1490b5bad9e73513b11aeb273fa.m3u8
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="TEST",NHK General TV (Osaka)
+https://epg.pm/stream/36d050e36d7c1a656841316c896a58583821600017843f7b1957f5d1d62118f6.m3u8
+
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="TEST",NHK Educational TV
+https://epg.pm/stream/c0cb34087935277f36f14be33e7de32b80f7481a542dac3197b6f8acc4f8959a.m3u8
+
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",group-title="TEST",NTV
+https://epg.pm/stream/0fb5076fbedf5f41f94e973041820775f2925f544d48514363d2af67c49d539e.m3u8
+
+#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="TEST",YTV1
+https://epg.pm/stream/9c26f9e884530bdd4e2ad0076d218d25cff350d11f04ec2b9098c09e3ce98f73.m3u8
+
+#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="TEST",YTV2
+https://epg.pm/stream/82497092676ddadd9465a476f1cd533db1809d2ff13e0871bc32368eb6ae7dd4.m3u8
+
+#EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="TEST",MBS
+https://epg.pm/stream/e23284f206a55688a793fe694afa36d3c443022110fde9ce1c88d90870cd7f90.m3u8
+
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="TEST",FUJI TV
+https://epg.pm/stream/2b8ddfb4de67703f855420d360b9a1f284b19aa62cee26ffb72b7c2241a7f63b.m3u8
+
+#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="TEST",ABC1
+https://epg.pm/stream/7ea3219f8b2db57c4a36babaf2129556e2cafe96ab1162d0cae5260aaf018b17.m3u8
+
+#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="TEST",ABC2
+https://epg.pm/stream/73bd3a40c557c07c6766748effaea191e48d9aed968819b7e0c2b029c8cd5648.m3u8
+
+#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-logo="https://asianwiki.com/images/e/e1/TV_Osaka-p1.png" group-title="TEST",TVO1
+https://epg.pm/stream/2887fb3ad703c155a7948a7ca8cb4b02da44b681e69a83b85846bd980593a863.m3u8
+
+#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-logo="https://asianwiki.com/images/e/e1/TV_Osaka-p1.png" group-title="TEST",TVO2
+https://epg.pm/stream/3d2da846d662d9264067c0d608bc9474c2696cee8240872f09700c3101497a11.m3u8
+
+#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="TEST",TOKYO MX1
+https://epg.pm/stream/27cd515212616c7085e706eaa2c9452f5568bca56553bca1ed0c1cbfd9031973.m3u8
+
+#EXTINF:-1  tvg-id="JOBRDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="TEST",KBS
+https://epg.pm/stream/98357a955d186de9237f0977b1667b7b2d1ea193b509782084a8c26927919a2d.m3u8
+
+#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="TEST",NHK BS1
+https://epg.pm/stream/17e40d1519d181398c6f47e0d9138eeb251d4b09fae1a55fc52578ded7c40998.m3u8
+
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="TEST",NHK BS Premium
+https://epg.pm/stream/101519f390c1ab86c21c6329244a7a848ae654bd1abf8f95ad5642e1efb9af8d.m3u8
+
+#EXTINF:-1 group-title="TEST" tvg-id="NHKBS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png", NHK BS4K
+https://epg.pm/stream/0d604fb76d529c1e6abd42b2511ab3b7b918a9b15e56f8a55b7bcd24964270a5.m3u8
+
+#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="TEST",BS Nippon TV
+https://epg.pm/stream/947d70bc821a4704a8d54e4032135a25fda716d0c9f39db9878645728b556184.m3u8
+
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="TEST",BS Asahi
+https://epg.pm/stream/20ba659732b61ed7a5afe50049bb5e3e336105a5f8d40c0dff13f7f515c2b9b9.m3u8
+
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="TEST",BS-TBS
+https://epg.pm/stream/6fcb01343b3c5ee7a3ec9eb816c3f9fc4c19c5a8e98c8198debda8d1283b7848.m3u8
+
+#EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="TEST",BS Fuji
+https://epg.pm/stream/b92171c937c8e1d4d50e370c322b27b747b125d725492dff227c00a279729f1a.m3u8
+
+#EXTINF:-1 group-title="TEST" tvg-id="BS11.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png", BS11
+https://epg.pm/stream/5a7015317edfa945d2014ea0a90d00602ec1d948f7e2d9147d9289d20fdaa092.m3u8
+
+#EXTINF:-1 group-title="TEST" tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png", BS12
+https://epg.pm/stream/1c1dce72bd293652281d6eb6f36c1afe0fba648c5c5a600c5a3d91a90f5d0af1.m3u8
+
+#EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="TEST",Wowow Prime
+https://epg.pm/stream/88f9df7ad1daebd3c02137bb7b3e431931e64fb79534d507f1c494f3e71aaa40.m3u8
+
+#EXTINF:-1 tvg-id="WowowLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="TEST",Wowow Live
+https://epg.pm/stream/b7289a819b38b842f37c6541fda35ceb1a0df8cdfb21ff3623aa53b5c51553bb.m3u8
+
+#EXTINF:-1 tvg-id="WowowCinema.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" group-title="TEST",Wowow Cinema
+https://epg.pm/stream/468ee6dab730d0fb9528bc2f3498b7675a4020906de79dead317274b6f40f6c3.m3u8
+
+#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://www.wowowplus.jp/parts/common/img/logo_pc.png?1130" group-title="TEST",Wowow Plus
+https://epg.pm/stream/aa4fef328b19ce0039f2dd18a1748b770167407a987b25c65e6b4cfef8d86f73.m3u8
+
+#EXTINF:-1 tvg-id="Star1.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_channel_jp_1.png" group-title="TEST",Star 1
+https://epg.pm/stream/63527df21f07729a964f28b18ac191bc0ec55218884b8c17405bd02440460785.m3u8
+
+#EXTINF:-1 tvg-id="Star3.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_channel_jp_3.png" group-title="TEST",Star 3
+https://epg.pm/stream/c55defcae8ec39612c9d1a282f98fe3b7c69051e4857572c41970257a4b37279.m3u8
+
+#EXTINF:-1 tvg-id="JSports1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="TEST",JSPORTS 1
+https://epg.pm/stream/aa63daae66d99542f997f8fcb40e12d995c6bdf774a928cd8ea251d3c49bf255.m3u8
+
+#EXTINF:-1 tvg-id="JSports3.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="TEST",JSPORTS 3
+https://epg.pm/stream/315fd3d0d20492f8a92d4d283f4c699913c558ff38ccb59ff6f85f232c8d2d5e.m3u8
+
+#EXTINF:-1 tvg-id="JSports4.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="TEST",JSPORTS 4
+https://epg.pm/stream/1ea51439a3f4e18465278d550af8faeec6441ed7cee4eeb981022d261f5b29a5.m3u8
+
+#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="TEST",BS Animax
+https://epg.pm/stream/01c2fbb7251e62099f259a29f7853a1290b4482e914ee2a1d2dcb4d2a322b8bc.m3u8
+
+#EXTINF:-1 tvg-id="FishingVision.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="TEST",Tsuri Vision
+https://epg.pm/stream/16b6ec70b3a784cdc25058bb5164f45a8368c322e8a566b86e9860d24d4078fc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_sky_perfect_241.png" group-title="TEST",BS Sky PerfecTV!
+https://epg.pm/stream/b33992736e527bc46669f7e0faf350edcb2497ccdb8108d1e30c7629819362d6.m3u8
+
+#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://i.postimg.cc/ydDMrbTZ/Nihon-Eiga-Senmon-Channel.jpg" group-title="TEST",Nihon Eiga Senmon Channel
+https://epg.pm/stream/601cba7f2869b9cbd5003340dd89768bea681ca736107f78bcacc8f37560b4db.m3u8
+
+#EXTINF:-1 group-title="TEST" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", GREEN ch
+https://epg.pm/stream/b181dd801976450b27a6235d84e6e523483d9c0c4a0a54256ad70090801872b3.m3u8
+
+#EXTINF:-1 group-title="TEST" tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png"", Disney Channel
+https://epg.pm/stream/744b3e569599788d97d28f5e3010cf0308849d06fd156016fe5f130f02a1e262.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanetJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="TEST",Animal Planet
+https://epg.pm/stream/a50805a451e2694483bf6241c19bdc6dcb4e88aa951a83fdfb597b67e681cc13.m3u8
