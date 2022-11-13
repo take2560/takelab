@@ -108,7 +108,6 @@ https://cdnv148.cloudrsst.com/jptv/kansi_mbs_540/playlist.m3u8
 #EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="DTV2 (720p-480p)",ABCテレビ (720p cloudrsst)
 https://cdnv148.cloudrsst.com/jptv/kansi_abc_asahi_720/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="DTV2 (720p-480p)",ABCテレビ (540p cloudrsst)
 https://cdnv148.cloudrsst.com/jptv/kansi_abc_asahi_540/playlist.m3u8
 
@@ -132,104 +131,6 @@ https://cdnv148.cloudrsst.com/jptv/kansi_sun_tv_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="DTV2 (720p-480p)",SUN-TV (540p cloudrsst)
 https://cdnv148.cloudrsst.com/jptv/kansi_sun_tv_540/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",フジテレビ (720p cloudrsst)
-.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",フジテレビ (720p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kanto_fuji_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",フジテレビ (540p Jpnettv)
-https://cdn.us195.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",フジテレビ (540p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kanto_fuji_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (720p-480p)",フジテレビ (480p redlabmcdn)
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (720p-480p)",テレビ朝日 (720p Jpnettv)
-https://cdn.us195.jpnettv.live/jptv/kanto_tv_asahi_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (720p-480p)",テレビ朝日 (720p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kanto_tv_asahi_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (720p-480p)",テレビ朝日 (540p Jpnettv)
-https://cdn.us195.jpnettv.live/jptv/kanto_tv_asahi_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (720p-480p)",テレビ朝日 (540p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kanto_tv_asahi_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (720p-480p)",テレビ朝日 (480p redlabmcdn)
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV2 (720p-480p)",テレビ東京 (720p Jpnettv)
-https://cdn.us195.jpnettv.live/jptv/kanto_tv_tokyo_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV2 (720p-480p)",テレビ東京 (540p Jpnettv)
-https://cdn.us195.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_log]o_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV2 (720p-480p)",テレビ東京 (540p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kanto_tv_tokyo_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV2 (720p-480p)",テレビ東京 (480p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kanto_tv_tokyo_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV2 (720p-480p)",テレビ東京 (480p redlabmcdn)
-http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
-
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV2 (720p-480p)",TOKYO MX1 (720p Jpnettv)
-https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV2 (720p-480p)",TOKYO MX1 (720p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kanto_tokyo_mx1_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV2 (720p-480p)",TOKYO MX1 (540p Jpnettv)
-https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV2 (720p-480p)",TOKYO MX1 (540p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kanto_tokyo_mx1_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV2 (720p-480p)",TOKYO MX1 (540p redlabmcdn)
-http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
-
-#EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="DTV2 (720p-480p)",MBS毎日放送 (720p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kansi_mbs_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="DTV2 (720p-480p)",MBS毎日放送 (540p Jpnettv)
-https://cdn.us195.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="DTV2 (720p-480p)",MBS毎日放送 (540p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kansi_mbs_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="DTV2 (720p-480p)",ABCテレビ (720p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kansi_abc_asahi_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="DTV2 (720p-480p)",ABCテレビ (540p Jpnettv)
-https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="DTV2 (720p-480p)",ABCテレビ (540p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kansi_abc_asahi_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="DTV2 (720p-480p)",読売テレビ (720p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kansi_yomiuri_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="DTV2 (720p-480p)",読売テレビ (540p Jpnettv)
-https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="DTV2 (720p-480p)",読売テレビ (540p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kansi_yomiuri_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Kantele_logo_2015.png" group-title="DTV2 (720p-480p)",カンテレ (720p cloudrsst)
-https://cdnv148.cloudrsst.com/jptv/kansi_tv_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Kantele_logo_2015.png" group-title="DTV2 (720p-480p)",カンテレ (540p Jpnettv)
-https://cdn.us195.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Kantele_logo_2015.png" group-title="DTV2 (720p-480p)",カンテレ (540p Jpnettv)
-https://cdnv148.cloudrsst.com/jptv/kansi_tv_540/playlist.m3u8
 
 #DTV3 (1080p)
 
