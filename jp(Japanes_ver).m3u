@@ -588,6 +588,9 @@ https://cdnv148.cloudrsst.com/jptv/Sky_A_540/playlist.m3u8
 #EXTINF:-1 tvg-id="NitteleGPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS2 (540p)",日テレジータス (540p cloudrsst)
 https://cdnv148.cloudrsst.com/jptv/japan_tv_G_540/playlist.m3u8
 
+#EXTINF:-1 group-title="CS2 (540p)" tvg-id="NationalGeographicJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png",ナショナル ジオグラフィック  (540p cloudrsst)
+https://cdnv148.cloudrsst.com/jptv/National_geographic/playlist.m3u8
+
 #CS3 (1080p)
 
 #EXTINF:-1 group-title="CS3 (1080p)" tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT - X  (1080p television4you)
