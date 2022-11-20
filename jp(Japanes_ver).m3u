@@ -608,23 +608,6 @@ http://123.30.146.172:21585/529/mpegts
 #EXTINF:-1 group-title="CS3 (mpegts)" tvg-id="SportsLivePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-live-plus-jp.png", スポーツライブ+  (mpegts)
 http://123.30.146.172:21585/627/mpegts
 
-
-
-#EXTINF:-1 group-title="CS4 (1080p)" tvg-id="GaoraSports.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS   (1080p television4you)
-https://code.television4you.xyz/getlink/yoitv?id=tO9COl46v4MdIi1NdbzL0A==
-
-#EXTINF:-1 group-title="CS4 (1080p)" tvg-id="NitteleGPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス  (1080p television4you)
-https://code.television4you.xyz/getlink/yoitv?id=dXGFqT_agGYcOrjCIa5vPg==
-
-#EXTINF:-1 group-title="CS4 (1080p)" tvg-id="GolfNetwork.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-network-jp.png", ゴルフネットワーク  (1080p television4you)
-https://code.television4you.xyz/getlink/yoitv?id=cmvgVwk7m4psiGgDwUS7LA==
-
-#EXTINF:-1 group-title="CS4 (1080p)" tvg-id="TakarazukaSkyStage.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/takarazuka_sky_stage.png", 宝塚歌劇専門チャンネル  (1080p television4you)
-https://code.television4you.xyz/getlink/yoitv?id=8qP22e52mcp47prxNsRFnw==
-
-#EXTINF:-1 group-title="CS4 (1080p)" tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png", 時代劇専門チャンネル  (1080p television4you)
-https://code.television4you.xyz/getlink/yoitv?id=vi2tgiOfMprwHEgs9gJxag==
-
 #NEWS
 
 #EXTINF:-1 tvg-id="CNNj.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-j-us-jp.png" group-title="NEWS",CNN J (720p Willfon)
