@@ -71,6 +71,7 @@ http://123.30.146.172:21585/550/mpegts
 http://123.30.146.172:21585/512/mpegts
 
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV3 (mpegts)",TOKYO MX1 (mpegts)
+http://123.30.146.172:21585/521/mpegts
 
 #BS1 (720p)
 
@@ -192,7 +193,7 @@ http://123.30.146.172:21585/551/mpegts
 #EXTINF:-1 group-title="BS3 (mpegts)" tvg-id="BS11.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png", BS11 (mpegts) 
 http://123.30.146.172:21585/600/mpegts
 
-#EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png" group-title="BS3 (mpegts)",BS12 (480p mpegts)
+#EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png" group-title="BS3 (mpegts)",BS12 (mpegts)
 http://123.30.146.172:21585/601/mpegts
 
 #EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS3 (mpegts)",BSアニマックス (mpegts)
