@@ -4,6 +4,7 @@
 #MAIN DTV1 (720p)
 
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720p)",NHK General TV (720p Willfon)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720p)",NHK Educational TV (720p Willfon)
@@ -49,6 +50,26 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV2 (480p)",TOKYO MX1 (540p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+
+#DTV3 (mpegts)
+
+#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="DTV3 (mpegts)",YTV (npegts)
+http://123.30.146.172:21585/523/mpegts
+
+#EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="DTV3 (mpegts)",MBS (mpegts)
+http://123.30.146.172:21585/522/mpegts
+
+#EXTINF:-1 tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Kantele_logo_2015.png" group-title="DTV3 (mpegts)",KTV (mpegts)
+http://123.30.146.172:21585/518/mpegts
+
+#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="DTV3 (mpegts)",ABC (mpegts)
+http://123.30.146.172:21585/550/mpegts
+
+#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-logo="https://asianwiki.com/images/e/e1/TV_Osaka-p1.png" group-title="DTV3 (mpegts)",TVO (mpegts)
+http://123.30.146.172:21585/512/mpegts
+
+#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV3 (mpegts)",TOKYO MX1 (mpegts)
+http://123.30.146.172:21585/521/mpegts
 
 #BS1 (720p)
 
@@ -167,10 +188,39 @@ https://cdnv148.cloudrsst.com/jptv/igasennmonn_720/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="BS2 (480p)",Disney Channel (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 
+#BS3 (mpegts)
+
+#EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS3 (mpegts)",BS Fuji (mpegts)
+http://123.30.146.172:21585/551/mpegts
+
+#EXTINF:-1 group-title="BS3 (mpegts)" tvg-id="BS11.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png", BS11 (mpegts) 
+http://123.30.146.172:21585/600/mpegts
+
+#EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png" group-title="BS3 (mpegts)",BS12 (480p mpegts)
+http://123.30.146.172:21585/601/mpegts
+
+#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS3 (mpegts)",BS Animax (mpegts)
+http://123.30.146.172:21585/508/mpegts
+
+#EXTINF:-1 tvg-id="FishingVision.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="BS3 (mpegts)",Tsuri Vision (mpegts)
+http://123.30.146.172:21585/617/mpegts
+
+#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://i.postimg.cc/ydDMrbTZ/Nihon-Eiga-Senmon-Channel.jpg" group-title="BS3 (mpegts)",Nihon Eiga Senmon Channel (mpegts)
+http://123.30.146.172:21585/520/mpegts
+
+#EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS3 (mpegts)",Jidaigeki Senmon Channel (mpegts)
+http://123.30.146.172:21585/533/mpegts
+
+#EXTINF:-1 group-title="BS3 (mpegts)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", GREEN ch (mpegts)
+http://123.30.146.172:21585/507/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYwD-7Q7sIwvFdQSF4piOuDF2-tmF7TqaUiYDobQHnHZJqrbGSGPbTwSUC&s=10" group-title="BS3 (mpegts)",BSJapanext (mpegts)
+http://123.30.146.172:21585/535/mpegts
+
 #CS1 (720p)
 
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS1 (720P)",AT-X (720p Stream)
-https://sub2.neetball.net/live/neet.m3u8
+https://sub.neetball.net/live/neet.m3u8
 
 #EXTINF:-1 tvg-id="AXNJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="CS1 (720P)",AXN Japan (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -202,7 +252,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="LaLaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png" group-title="CS1 (720P)",LaLaTV (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="NitteleGPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS1 (720P)",Nittele G+ (720p Willfon)
+#EXTINF:-1 tvg-id="NitteleGPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-⁰.png" group-title="CS1 (720P)",Nittele G+ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="ChannelNeco.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS1 (720P)",Channel NECO (720p Willfon)
@@ -225,6 +275,98 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS1 (720P)",Sky A (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#CS2 (mpegts)
+
+#EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS2 (mpegts)",AT-X (mpegts)
+http://123.30.146.172:21585/616/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="MTVJapan.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV Japan  (mpegts)
+http://123.30.146.172:21585/501/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="idk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png", Music JapanTV  (mpegts)
+http://123.30.146.172:21585/525/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Station (mpegts)
+http://123.30.146.172:21585/502/mpegts
+
+#EXTINF:-1 tvg-id="ChannelNeco.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS2 (mpegts)",Channel NECO (mpegts)
+http://123.30.146.172:21585/504/mpegts
+
+#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CS2 (mpegts)",MOVIE Plus (mpegts)
+http://123.30.146.172:21585/505/mpegts
+
+#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS2 (mpegts)",TOEI  Channel (mpegts)
+http://123.30.146.172:21585/604/mpegts
+
+#EXTINF:-1 tvg-id="EiseiGekijo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" group-title="CS2 (mpegts)",Eisei  Gekijo(mpegts)
+http://123.30.146.172:21585/605/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", Home Drama Channel (mpegts)
+http://123.30.146.172:21585/532/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="ChannelGinga.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_ginga.png", Channel GINGA (mpegts)
+http://123.30.146.172:21585/612/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="SuperDramaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png", Super Drama TV (mpegts)
+http://123.30.146.172:21585/613/mpegts
+
+#EXTINF:-1 tvg-id="FoxJapan.jp" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.png" group-title="CS2 (mpegts)",FOX Japan (mpegts)
+http://123.30.146.172:21585/614/mpegts
+
+#EXTINF:-1 tvg-id="AXNJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="CS2 (mpegts)",AXN Japan (mpegts)
+http://123.30.146.172:21585/626/mpegts
+
+#EXTINF:-1 tvg-id="LaLaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png" group-title="CS2 (mpegts)",LaLaTV (mpegts)
+http://123.30.146.172:21585/615/mpegts
+
+#EXTINF:-1 tvg-id="FamilyGekijyo.jp" tvg-logo="https://i.postimg.cc/k5fXKzj3/o023302751417597653027.jpg" group-title="CS2 (mpegts)",Family  Gekijyo (mpegts)
+http://123.30.146.172:21585/607/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="MondoTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mondo_tv_jp.png",  MONDO TV (mpegts)
+http://123.30.146.172:21585/609/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pigoo-jp.png", IDOL Senmon Channel Pigoo  (mpegts)
+http://123.30.146.172:21585/620/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="TakarazukaSkyStage.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/takarazuka_sky_stage.png", Takarazuka Sky Stage (mpegts)
+http://123.30.146.172:21585/606/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="NittelePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nittele-plus-jp.png", Nittele  Plus (mpegts)
+http://123.30.146.172:21585/611/mpegts
+
+#EXTINF:-1 tvg-id="NitteleGPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS2 (mpegts)",Nittele G (mpegts)
+http://123.30.146.172:21585/534/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="TBSChannel1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-1-jp.png", TBS Channel 1  (mpegts)
+http://123.30.146.172:21585/603/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="TBSChannel2.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-2-jp.png", TBS Channel 2  (mpegts)
+http://123.30.146.172:21585/610/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="FujiTVOne.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_one.png", FUJI TV ONE  (mpegts)
+http://123.30.146.172:21585/621/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="FujiTVTwo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_two.png", FUJI TV TWO  (mpegts)
+http://123.30.146.172:21585/622/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="FujiTVNext.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_next.png", FUJI TV NEXT  (mpegts)
+http://123.30.146.172:21585/623/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="TVAsahiChannel1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel1.png", TV Asahi Channel 1  (mpegts)
+http://123.30.146.172:21585/624/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="TVAsahiChannel2.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel2.png", TV Asahi Channel2  (mpegts)
+http://123.30.146.172:21585/625/mpegts
+
+#EXTINF:-1 tvg-id="DiscoveryChannelJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS2 (mpegts)",Discovery Channel (mpegts)
+http://123.30.146.172:21585/531/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="NationalGeographicJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png",National Geographic (mpegts)
+http://123.30.146.172:21585/529/mpegts
+
+#EXTINF:-1 group-title="CS2 (mpegts)" tvg-id="SportsLivePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-live-plus-jp.png", Sports Live+  (mpegts)
+http://123.30.146.172:21585/627/mpegts
 
 #NEWS
 
