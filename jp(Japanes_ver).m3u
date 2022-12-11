@@ -182,6 +182,9 @@ http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 #EXTINF:-1 tvg-id="JSports3.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS2 (480p)",JSPORTS 3 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="BS2 (480p)",ディズニーチャンネル (480p redlabmcdn)
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+
 #BS3 (mpegts)
 
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS3 (mpegts)",BSフジ (mpegts)
@@ -384,8 +387,3 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース (Stream2)
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-
-
-
-
-
