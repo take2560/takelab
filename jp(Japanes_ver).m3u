@@ -52,9 +52,6 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 
 #DTV3 (mpegts)
 
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV3 (mpegts)",NHK総合 (mpegts)
-http://123.30.146.172:21585/500/mpegts
-
 #EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="DTV3 (mpegts)",読売テレビ (npegts)
 http://123.30.146.172:21585/523/mpegts
 
