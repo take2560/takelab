@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml" tvg-shift=0 m3uautoload=1
 
 #MAIN DTV1 (720p)
 
