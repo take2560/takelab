@@ -6,22 +6,22 @@
 #EXTINF:-1 tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK総合 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK教育 (720p Willfon)
+#EXTINF:-1 tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK教育 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",group-title="DTV1 (720P)",日本テレビ (720p Willfon)
+#EXTINF:-1 tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",group-title="DTV1 (720P)",日本テレビ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV1 (720P)",TBSテレビ (720p Willfon)
+#EXTINF:-1 tvg-id="63261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV1 (720P)",TBSテレビ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV1 (720P)",フジテレビ (720p Willfon)
+#EXTINF:-1 tvg-id="63394" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV1 (720P)",フジテレビ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV1 (720P)",テレビ朝日 (720p Willfon)
+#EXTINF:-1 tvg-id="63382" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV1 (720P)",テレビ朝日 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV1 (720P)",テレビ東京 (720p Willfon)
+#EXTINF:-1 tvg-id="63309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV1 (720P)",テレビ東京 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #DTV2 (480p)
@@ -29,22 +29,22 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (480p)",NHK総合 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (480p)",NHK教育 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (480p)",NHK教育 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 
-#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", group-title="DTV2 (480p)",日本テレビ (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", group-title="DTV2 (480p)",日本テレビ (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV2 (480p)",TBSテレビ (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV2 (480p)",TBSテレビ (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
 
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (480p)",フジテレビ (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63394" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (480p)",フジテレビ (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (480p)",テレビ朝日 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63382" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (480p)",テレビ朝日 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV2 (480p)",テレビ東京 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV2 (480p)",テレビ東京 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV2 (480p)",TOKYO MX1 (480p redlabmcdn)
@@ -55,22 +55,22 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 #EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=Hqm-m7jqkFlA1CloJoaJZQ==
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (unstable)
+#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=j7SQYfwTF63S9FmRqrjNJw==
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="NipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (unstable)
+#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=gnpNcLEhwujjXOxTl7gaJg==
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBSテレビ (unstable)
+#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBSテレビ (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=bRZUMcrX_kQ5R0XP-xJcZg==
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ  (unstable)
+#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63394" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=dfVr67j-Iy_J5tM4jYI7gQ==
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", テレビ朝日  (unstable)
+#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63382" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", テレビ朝日  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=iU_IC-e38CjfLhlvUxqWRg==
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", テレビ東京 (unstable)
+#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", テレビ東京 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=dRNhWs1DLdcWq_ufN6fElg==
 
 #EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="JOMXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (unstable)
@@ -734,7 +734,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS1 (720P)",NHK BSプレミアム (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS1 (720P)",BS日テレ (720p Willfon)
+#EXTINF:-1 tvg-id="BS63324" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS1 (720P)",BS日テレ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS1 (720P)",BS朝日 (720p Willfon)
@@ -802,7 +802,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 #EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS2 (480p)",NHK BSプレミアム (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
 
-#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS2 (480p)",BS日テレ (480p redlabmcdn)
+#EXTINF:-1 tvg-id="BS63324" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS2 (480p)",BS日テレ (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
 
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS2 (480p)",BS朝日 (480p redlabmcdn)
@@ -852,7 +852,7 @@ http://playlist.vthanhtivi.pw/yoitv/get.php?id=KQxwxJVMr_ML8ZvsMsi8uQ==
 #EXTINF:-1 group-title="BS3 (unstable)" tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BSプレミアム (unstable)  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=z3QuIfTGLtMqsBfWF1H4Pg==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="BSNipponTV.jp" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" , BS日テレ (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="BS63324" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" , BS日テレ (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=9GYVLtOWedFVhurDZOtidw==
 
 #EXTINF:-1 group-title="BS3 (unstable)" tvg-id="BSAsahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png", BS朝日 (unstable)
