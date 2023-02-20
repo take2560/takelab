@@ -47,7 +47,7 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1 tvg-id="63309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV2 (480p)",テレビ東京 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV2 (480p)",TOKYO MX1 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63343" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV2 (480p)",TOKYO MX1 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 
 #DTV3 (unstable)
@@ -73,7 +73,7 @@ http://playlist.vthanhtivi.pw/yoitv/get.php?id=iU_IC-e38CjfLhlvUxqWRg==
 #EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", テレビ東京 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=dRNhWs1DLdcWq_ufN6fElg==
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="JOMXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (unstable)
+#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63343" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
 
 #EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (unstable)
@@ -728,206 +728,206 @@ https://cdn-hk-33.cloudrsst.com/live/kansi_sun_tv_480/playlist.m3u8
 
 #BS1 (720p)
 
-#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS1 (720P)",NHK BS1 (720p Willfon)
+#EXTINF:-1 tvg-id="62978" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS1 (720P)",NHK BS1 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS1 (720P)",NHK BSプレミアム (720p Willfon)
+#EXTINF:-1 tvg-id="63325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS1 (720P)",NHK BSプレミアム (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="BS63324" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS1 (720P)",BS日テレ (720p Willfon)
+#EXTINF:-1 tvg-id="62980" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS1 (720P)",BS日テレ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS1 (720P)",BS朝日 (720p Willfon)
+#EXTINF:-1 tvg-id="62981" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS1 (720P)",BS朝日 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS1 (720P)",BS-TBS (720p Willfon)
+#EXTINF:-1 tvg-id="62982" tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS1 (720P)",BS-TBS (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS1 (720P)",BSテレ東 (720p Willfon)
+#EXTINF:-1 tvg-id="63268" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS1 (720P)",BSテレ東 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS1 (720P)",BSフジ (720p Willfon)
+#EXTINF:-1 tvg-id="62985" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS1 (720P)",BSフジ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="BS1 (720P)",WOWOWプライム (720p Willfon) 
+#EXTINF:-1 tvg-id="62986" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="BS1 (720P)",WOWOWプライム (720p Willfon) 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="WowowLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="BS1 (720P)",WOWOWライブ (720p Willfon)
+#EXTINF:-1 tvg-id="62987" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="BS1 (720P)",WOWOWライブ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="WowowCinema.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" group-title="BS1 (720P)",WOWOWシネマ (720p Willfon)
+#EXTINF:-1 tvg-id="62988" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" group-title="BS1 (720P)",WOWOWシネマ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="Star1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS1 (720P)",スターチャンネル1 (720p Willfon)
+#EXTINF:-1 tvg-id="63390" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS1 (720P)",スターチャンネル1 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="Star2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS1 (720P)",スターチャンネル2 (720p Willfon)
+#EXTINF:-1 tvg-id="62990" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS1 (720P)",スターチャンネル2 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="Star3.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS1 (720P)",スターチャンネル3 (720p Willfon)
+#EXTINF:-1 tvg-id="63397" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS1 (720P)",スターチャンネル3 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS1 (720P)",BSアニマックス (720p Willfon)
+#EXTINF:-1 tvg-id="62998" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS1 (720P)",BSアニマックス (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="FishingVision.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="BS1 (720P)",釣りビジョン (720p Willfon)
+#EXTINF:-1 tvg-id="63003" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="BS1 (720P)",釣りビジョン (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_sky_perfect_241.png" group-title="BS1 (720P)",BSスカパー! (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="JSports1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS1 (720P)",JSPORTS 1 (720p Willfon)
+#EXTINF:-1 tvg-id="63333" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS1 (720P)",JSPORTS 1 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="JSports2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS1 (720P)",JSPORTS 2 (720p Willfon)
+#EXTINF:-1 tvg-id="63342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS1 (720P)",JSPORTS 2 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="JSports3.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS1 (720P)",JSPORTS 3 (720p Willfon)
+#EXTINF:-1 tvg-id="63399" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS1 (720P)",JSPORTS 3 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="JSports4.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS1 (720P)",JSPORTS 4 (720p Willfon)
+#EXTINF:-1 tvg-id="63406" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS1 (720P)",JSPORTS 4 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://i.postimg.cc/ydDMrbTZ/Nihon-Eiga-Senmon-Channel.jpg" group-title="BS1 (720P)",日本映画専門チャンネル (720p Willfon)
+#EXTINF:-1 tvg-id="63312" tvg-logo="https://i.postimg.cc/ydDMrbTZ/Nihon-Eiga-Senmon-Channel.jpg" group-title="BS1 (720P)",日本映画専門チャンネル (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS1 (720P)",時代劇専門チャンネル (720p Willfon)
+#EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS1 (720P)",時代劇専門チャンネル (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #BS2 (480p)
 
-#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS2 (480p)",NHK BS1 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="62978" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS2 (480p)",NHK BS1 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS2 (480p)",NHK BSプレミアム (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS2 (480p)",NHK BSプレミアム (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
 
-#EXTINF:-1 tvg-id="BS63324" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS2 (480p)",BS日テレ (480p redlabmcdn)
+#EXTINF:-1 tvg-id="62980" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS2 (480p)",BS日テレ (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
 
-#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS2 (480p)",BS朝日 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="62981" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS2 (480p)",BS朝日 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
 
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS2 (480p)",BS-TBS (480p redlabmcdn)
+#EXTINF:-1 tvg-id="62982" tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS2 (480p)",BS-TBS (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
 
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS2 (480p)",BSテレ東 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63268" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS2 (480p)",BSテレ東 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
 
-#EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS2 (480p)",BSフジ (480p redlabmcdn)
+#EXTINF:-1 tvg-id="62985" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS2 (480p)",BSフジ (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
 
-#EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png" group-title="BS2 (480p)",BS12 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63321" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png" group-title="BS2 (480p)",BS12 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
 
-#EXTINF:-1 tvg-id="Star1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS2 (480p)",スターチャンネル1 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63390" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS2 (480p)",スターチャンネル1 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
 
-#EXTINF:-1 tvg-id="Star2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS2 (480p)",スターチャンネル2 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="62990" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS2 (480p)",スターチャンネル2 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
 
-#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS2 (480p)",BSアニマックス (480p redlabmcdn)
+#EXTINF:-1 tvg-id="62998" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS2 (480p)",BSアニマックス (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
-#EXTINF:-1 tvg-id="JSports1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS2 (480p)",JSPORTS 1 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63333" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS2 (480p)",JSPORTS 1 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 
-#EXTINF:-1 tvg-id="JSports2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS2 (480p)",JSPORTS 2 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS2 (480p)",JSPORTS 2 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 
-#EXTINF:-1 tvg-id="JSports3.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS2 (480p)",JSPORTS 3 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63399" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS2 (480p)",JSPORTS 3 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="BS2 (480p)",ディズニーチャンネル (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="BS2 (480p)",ディズニーチャンネル (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 
 #BS3 (unstable)
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62978" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=f-uLAeVdSWp9bd1XFM3Pzw==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 BS102 (unstable)  
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62978" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 BS102 (unstable)  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=KQxwxJVMr_ML8ZvsMsi8uQ==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BSプレミアム (unstable)  
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BSプレミアム (unstable)  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=z3QuIfTGLtMqsBfWF1H4Pg==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="BS63324" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" , BS日テレ (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62980" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" , BS日テレ (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=9GYVLtOWedFVhurDZOtidw==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="BSAsahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png", BS朝日 (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62981" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png", BS朝日 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=CDf67JD0vmiC74DDaND-XA==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="BSTBS.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png", BS-TBS (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62982" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png", BS-TBS (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=JKQRufMevFV7GDKYePYwBQ==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="BSTVTokyo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BSテレ東 (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63268" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BSテレ東 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=y288Dc5aSplzqGsFpCvm-g==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="BSFuji.jp" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg", BSフジ (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62985" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg", BSフジ (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=1WFDcS4-Lv_4Qsnx8TQtgg==
 
 #EXTINF:-1 group-title="BS3 (unstable)" tvg-id="BS11.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png", BS11  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=tEg54Q7WKFA66LWT0fB0gw==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png", BS12  (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63321" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png", BS12  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=WEtgDOVPkrw08bZvlQM6fA==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="WOWOWPrime.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOWプライム (unstable) 
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62986" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOWプライム (unstable) 
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=HloiOsNhiBm-DF9vVfFMTw==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="WOWOWLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOWライブ (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62987" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOWライブ (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=g8s69Z5bxLZgAoqqFT8iDg==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="WOWOWCinema.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOWシネマ (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63363" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOWシネマ (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=iF6iKCiap5agDJYZhyVjwg==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="WowowPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png", WOWOWプラス (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63285" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png", WOWOWプラス (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=TfcJ9kWH1CIOv9xAI6BrBA==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="Star1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", スターチャンネル1 (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63390" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", スターチャンネル1 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=yUuqXFK2vDyiwU66uQEQ1Q==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="Star2.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", スターチャンネル2 (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62990" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", スターチャンネル2 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=NGPH2Brrn3gqcgdTIhVmwg==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="Star3.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", スターチャンネル3 (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63397" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", スターチャンネル3 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=90LieNPzSaD1VOpEeT7f1w==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="Animax.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BSアニマックス (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62998" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BSアニマックス (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=M9b8YoeShhTsfaXXoNZJDw==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="FishingVision.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png", 釣りビジョン (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63003" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png", 釣りビジョン (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=chSauCF_-xtI2nAKn1HIVw==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="im_using_jcom_epg_lol" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_sky_perfect_241.png", BSスカパー! (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_sky_perfect_241.png", BSスカパー! (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=afavNfE5CyADY6llwTTbHQ==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="JSports1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 1  (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63333" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 1  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=I4-UBbWeNgikTsL_LV-s-g==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="JSports2.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 2  (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63342" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 2  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=__DfWcLmTP6pOiYyxsaMLQ==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="JSports3.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 3  (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63399" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 3  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=uwliL6IX2s7jD1yJwLogYA==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="JSports4.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 4  (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63406" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 4  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=iTJCVvFevlmYFWr2kDu6tg==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png", 日本映画専門チャンネル (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63312" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png", 日本映画専門チャンネル (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=EZ01kN4IL0TFHR5h9Jq9BA==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png", 時代劇専門チャンネル (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png", 時代劇専門チャンネル (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=vi2tgiOfMprwHEgs9gJxag==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png", ディズニーチャンネル (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png", ディズニーチャンネル (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=iEpvKTL_zcrh2cTR1D8EUA==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン ch (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62997" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン ch (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=VJxE-FBlx64-LontMCBEVw==
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="NHKBS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png", NHK BS4K  (unstable)
+#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63344" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png", NHK BS4K  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=thRBrsQy5LgM0YhR7EJudg==
 
 #BS4 (cloudrsst)
@@ -1534,7 +1534,7 @@ http://cdn-hk-33.cloudrsst.com/live/igasennmonn_540/playlist.m3u8
 
 #CS1 (720p)
 
-#EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS1 (720p)",AT-X (720p Stream)
+#EXTINF:-1 tvg-id="63049" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS1 (720p)",AT-X (720p Stream)
 https://sub.neetball.net/live/neet.m3u8
 
 #EXTINF:-1 tvg-id="AXNJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="CS1 (720p)",AXN海外ドラマ (720p Willfon)
@@ -1593,7 +1593,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 
 #CS2 (unstable)
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63049" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=X4_3qVMPUBpZMqO_hX4vBw==
 
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="MTVJapan.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV Japan  (unstable)  
@@ -1721,6 +1721,203 @@ http://playlist.vthanhtivi.pw/yoitv/get.php?id=OZooDkZinq-FLyeL7jtOHw==
 
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="SportsLivePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-live-plus-jp.png", スポーツライブ+  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=-uV8jOhgHBRuuEMBdU0Yig==
+
+#CS3 (cloudrsst)
+
+#EXTINF:-1 tvg-id="63322" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.png" group-title="CS3 (cloudrsst)",FOX (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/jfox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63322" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.png" group-title="CS3 (cloudrsst)",FOX (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/jfox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63322" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.png" group-title="CS3 (cloudrsst)",FOX (540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/jfox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63322" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.png" group-title="CS3 (cloudrsst)",FOX (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/jfox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63322" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.png" group-title="CS3 (cloudrsst)",FOX (540p cloudrsst55)
+http://cdn-hk-33.cloudrsst.com/live/jfox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63011" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" group-title="CS3 (cloudrsst)",衛星劇場 (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/gekijjyou/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63011" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" group-title="CS3 (cloudrsst)",衛星劇場 (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/gekijjyou/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63011" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" group-title="CS3 (cloudrsst)",衛星劇場 (540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/gekijjyou/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63011" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" group-title="CS3 (cloudrsst)",衛星劇場 (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/gekijjyou/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63011" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" group-title="CS3 (cloudrsst)",衛星劇場 (540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/gekijjyou/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63047" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="CS3 (cloudrsst)",キッズステーション (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/jkids_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63047" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="CS3 (cloudrsst)",キッズステーション (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/jkids_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63047" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="CS3 (cloudrsst)",キッズステーション (540p cloudrsst194)
+http://cdn-us-154.cloudrsst.com/live/jkids_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63047" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="CS3 (cloudrsst)",キッズステーション (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/jkids_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63047" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="CS3 (cloudrsst)",キッズステーション (540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/jkids_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63401" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS3 (cloudrsst)",チャンネルNECO (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/Neco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63401" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS3 (cloudrsst)",チャンネルNECO (540p cloudrsst185)
+http://cdn-us-186.cloudrsst.com/live/Neco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63401" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS3 (cloudrsst)",チャンネルNECO (540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/Neco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63401" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS3 (cloudrsst)",チャンネルNECO (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/Neco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63401" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS3 (cloudrsst)",チャンネルNECO (540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/Neco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63010" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS3 (cloudrsst)",東映チャンネル (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/toa_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63010" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS3 (cloudrsst)",東映チャンネル (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/toa_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63010" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS3 (cloudrsst)",東映チャンネル (540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/toa_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63010" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS3 (cloudrsst)",東映チャンネル (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/toa_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63010" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS3 (cloudrsst)",東映チャンネル (540p cloudrsst33)
+http://dn-hk-33.cloudrsst.com/live/toa_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63014" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CS3 (cloudrsst)",ムービープラス (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/movieplus_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63014" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CS3 (cloudrsst)",ムービープラス (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/movieplus_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63014" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CS3 (cloudrsst)",ムービープラス (540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/movieplus_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63014" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CS3 (cloudrsst)",ムービープラス (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/movieplus_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63014" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CS3 (cloudrsst)",ムービープラス (540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/movieplus_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63313" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png" group-title="CS3 (cloudrsst)",MTV Japan (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/mtv_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63313" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png" group-title="CS3 (cloudrsst)",MTV Japan (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/mtv_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63313" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png" group-title="CS3 (cloudrsst)",MTV Japan (540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/mtv_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63313" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png" group-title="CS3 (cloudrsst)",MTV Japan (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/mtv_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63313" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png" group-title="CS3 (cloudrsst)",MTV Japan (540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/mtv_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63015" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS3 (cloudrsst)",スカイA (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/Sky_A_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63015" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS3 (cloudrsst)",スカイA (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/Sky_A_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63015" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS3 (cloudrsst)",スカイA (540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/Sky_A_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63015" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS3 (cloudrsst)",スカイA (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/Sky_A_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63015" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS3 (cloudrsst)",スカイA (540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/Sky_A_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63017" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS3 (cloudrsst)",日テレジータス (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/japan_tv_G_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63017" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS3 (cloudrsst)",日テレジータス (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/japan_tv_G_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63017" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS3 (cloudrsst)",日テレジータス (540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/japan_tv_G_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63017" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS3 (cloudrsst)",日テレジータス (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/japan_tv_G_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63017" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS3 (cloudrsst)",日テレジータス (540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/japan_tv_G_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63051" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS3 (cloudrsst)",Discovery (720p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/jdiscovery_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63051" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS3 (cloudrsst)",Discovery (720p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/jdiscovery_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63051" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS3 (cloudrsst)",Discovery (720p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/jdiscovery_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63051" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS3 (cloudrsst)",Discovery (720p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/jdiscovery_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63051" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS3 (cloudrsst)",Discovery (720p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/jdiscovery_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63051" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS3 (cloudrsst)",Discovery (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/jdiscovery_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63051" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS3 (cloudrsst)",Discovery (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/jdiscovery_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63051" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS3 (cloudrsst)",Discovery (540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/jdiscovery_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63051" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS3 (cloudrsst)",Discovery (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/jdiscovery_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63051" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS3 (cloudrsst)",Discovery (540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/jdiscovery_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63052" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CS3 (cloudrsst)",アニマルプラネット(540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/Animal_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63052" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CS3 (cloudrsst)",アニマルプラネット(540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/Animal_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63052" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CS3 (cloudrsst)",アニマルプラネット(540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/Animal_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63052" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CS3 (cloudrsst)",アニマルプラネット(540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/Animal_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63052" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CS3 (cloudrsst)",アニマルプラネット(540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/Animal_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png" group-title="CS3 (cloudrsst)",ナショナル ジオグラフィック (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/National_geographic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png" group-title="CS3 (cloudrsst)",ナショナル ジオグラフィック (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/National_geographic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png" group-title="CS3 (cloudrsst)",ナショナル ジオグラフィック (540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/National_geographic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png" group-title="CS3 (cloudrsst)",ナショナル ジオグラフィック (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/National_geographic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png" group-title="CS3 (cloudrsst)",ナショナル ジオグラフィック (540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/National_geographic/playlist.m3u8
 
 #NEWS
 
