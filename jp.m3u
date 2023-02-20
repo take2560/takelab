@@ -1537,66 +1537,65 @@ http://cdn-hk-33.cloudrsst.com/live/igasennmonn_540/playlist.m3u8
 #EXTINF:-1 tvg-id="63049" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS1 (720p)",AT-X (720p Stream)
 https://sub.neetball.net/live/neet.m3u8
 
-#EXTINF:-1 tvg-id="AXNJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="CS1 (720p)",AXN海外ドラマ (720p Willfon)
+#EXTINF:-1 tvg-id="63035" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="CS1 (720p)",AXN海外ドラマ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="FoxJapan.jp" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.png" group-title="CS1 (720p)",FOX Japan (720p Willfon)
+#EXTINF:-1 tvg-id="63036" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.png" group-title="CS1 (720p)",FOX Japan (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="ChannelGinga.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_ginga.png" group-title="CS1 (720p)",チャンネル銀河 (720p Willfon)
+#EXTINF:-1 tvg-id="63280" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_ginga.png" group-title="CS1 (720p)",チャンネル銀河 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="FamilyGekijyo.jp" tvg-logo="https://i.postimg.cc/k5fXKzj3/o023302751417597653027.jpg" group-title="CS1 (720p)",ファミリー劇場 (720p Willfon)
+#EXTINF:-1 tvg-id="63021" tvg-logo="https://i.postimg.cc/k5fXKzj3/o023302751417597653027.jpg" group-title="CS1 (720p)",ファミリー劇場 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="GaoraSports.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="CS1 (720p)",GAORA (720p Willfon)
+#EXTINF:-1 tvg-id="63016" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="CS1 (720p)",GAORA (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="GolfNetwork.jp" tvg-logo="https://i.postimg.cc/sDY2HML1/logo-new.png" group-title="CS1 (720p)",ゴルフネットワーク (720p Willfon)
+#EXTINF:-1 tvg-id="63018" tvg-logo="https://i.postimg.cc/sDY2HML1/logo-new.png" group-title="CS1 (720p)",ゴルフネットワーク (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="KayoPops.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kayo-pops-jp.png" group-title="CS1 (720p)",歌謡ポップスチャンネル (720p Willfon)
+#EXTINF:-1 tvg-id="63046" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kayo-pops-jp.png" group-title="CS1 (720p)",歌謡ポップスチャンネル (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="CS1 (720p)",キッズステーション (720p Willfon)
+#EXTINF:-1 tvg-id="63047" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="CS1 (720p)",キッズステーション (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" group-title="CS1 (720p)",ホームドラマチャンネル (720p Willfon)
+#EXTINF:-1 tvg-id="63022" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" group-title="CS1 (720p)",ホームドラマチャンネル (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="LaLaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png" group-title="CS1 (720p)",LaLaTV (720p Willfon)
+#EXTINF:-1 tvg-id="63372" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png" group-title="CS1 (720p)",LaLaTV (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="NitteleGPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS1 (720p)",日テレジータス (720p Willfon)
+#EXTINF:-1 tvg-id="63017" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS1 (720p)",日テレジータス (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="ChannelNeco.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS1 (720p)",チャンネルNECO (720p Willfon)
+#EXTINF:-1 tvg-id="63401" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="CS1 (720p)",チャンネルNECO (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CS1 (720p)",ムービープラス (720p Willfon)
+#EXTINF:-1 tvg-id="63014" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CS1 (720p)",ムービープラス (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="MusicOnTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="CS1 (720p)",Music ON TV! (720p Willfon)
+#EXTINF:-1 tvg-id="63339" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="CS1 (720p)",Music ON TV! (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS1 (720p)",東映チャンネル (720p Willfon)
+#EXTINF:-1 tvg-id="63010" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS1 (720p)",東映チャンネル (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="IgoShogiChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/igoshogi.png" group-title="CS1 (720p)",囲碁・将棋チャンネル (720p Willfon)
+#EXTINF:-1 tvg-id="63059" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/igoshogi.png" group-title="CS1 (720p)",囲碁・将棋チャンネル (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="SuperDramaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png" group-title="CS1 (720p)",スーパー!ドラマTV (720p Willfon)
+#EXTINF:-1 tvg-id="63359" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png" group-title="CS1 (720p)",スーパー!ドラマTV (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS1 (720p)",スカイA (720p Willfon)
+#EXTINF:-1 tvg-id="63015" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS1 (720p)",スカイA (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#CS2 (unstable)
+#CS2 (unstable) 
 
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63049" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=X4_3qVMPUBpZMqO_hX4vBw==
-
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="MTVJapan.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV Japan  (unstable)  
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="6" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV Japan  (unstable)  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=r92x5aJGtFjpXj4FtPuvAw==
 
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="idk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png", Music JapanTV  (unstable)
@@ -1611,43 +1610,43 @@ http://playlist.vthanhtivi.pw/yoitv/get.php?id=e0RBTvrOfe06oOkn-UXX5w==
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="MusicAir.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_air_networks.png", ミュージック・エア (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=IXnt-Gl6_yvCaN-Xpya22w==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="MusicOnTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png", Music ON TV! (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63339" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png", Music ON TV! (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=6eHaPTJd0NoBEwN6E9jArw==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション  (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63047" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=xh4GJxN8zJFL3SmJ1P6Xsg==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="ChannelNeco.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", チャンネルNECO (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63401" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", チャンネルNECO (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=EqJ7OEIS3u-Jkyx3-DdtJA==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="MoviePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63014" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=84u-cm6u_Ms6JzWF4Dbtkg==
 
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="TheCinema.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png", ザ・シネマ (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=gnFwEiPGB-QioCyMBfvEMA==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="ToeiChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63010" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=jfiMPwRAVsgTmcnf9Wu7HQ==
 
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="EiseiGekijo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", 衛星劇場 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=FcJRBrNCLHjS9wKtD2rz7g==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ホームドラマチャンネル  (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63022" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ホームドラマチャンネル  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=859y5OLm0n2u1DZrEsgeFQ==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="ChannelGinga.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_ginga.png", チャンネル銀河  (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63280" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_ginga.png", チャンネル銀河  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=gQmngIMvdnJvKcjGLAYJOw==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="SuperDramaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png", スーパー!ドラマTV  (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63359" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png", スーパー!ドラマTV  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=Dx-fj30YfMqlPP9MVx7qvQ==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="FoxJapan.jp" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.png", FOX Japan (unstable)  
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63036" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.png", FOX Japan (unstable)  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=3d_lKfbxi344MiAxcjIypQ==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="LaLaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png", LaLaTV (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63372" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png", LaLaTV (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=tQU0QsuMA_251h8Mk4qrsw==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="FamilyGekijyo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", ファミリー劇場 (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63021" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", ファミリー劇場 (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=YZdcUvyN3G-Zw8OiuJVXxA==
 
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="MondoTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mondo_tv_jp.png", MONDO TV (unstable)
@@ -1671,22 +1670,22 @@ http://playlist.vthanhtivi.pw/yoitv/get.php?id=X5WzyzsdPL1pNzWxOctwBA==
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="DanceChannel.jp" tvg-logo="https://www.dance-ch.jp/image/common/logo_f.png", ダンスチャンネル (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=kKx57kaG4Tz9tOTiLx8exA==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="GolfNetwork.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-network-jp.png", ゴルフネットワーク (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63018" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-network-jp.png", ゴルフネットワーク (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=cmvgVwk7m4psiGgDwUS7LA==
 
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="FightingTVSamurai.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fighting-tv-samurai-jp.png", FIGHTING TV サムライ (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=roHA-uoOn8d5muaZM04Qxg==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", スカイA (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63015" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", スカイA (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=oJyS_HypG6uzUEEJODMaWg==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="GaoraSports.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63016" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=tO9COl46v4MdIi1NdbzL0A==
 
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="NittelePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nittele-plus-jp.png", 日テレプラス  (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=1c9wCVY_quBwDk4RNxuPWw==
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="NitteleGPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス (unstable)
+#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63017" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス (unstable)
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=dXGFqT_agGYcOrjCIa5vPg==
 
 #EXTINF:-1 group-title="CS2 (unstable)" tvg-id="TBSChannel1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-1-jp.png", TBSチャンネル1  (unstable)
@@ -1921,7 +1920,7 @@ http://cdn-hk-33.cloudrsst.com/live/National_geographic/playlist.m3u8
 
 #NEWS
 
-#EXTINF:-1 tvg-id="CNNj.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-j-us-jp.png" group-title="NEWS",CNN J (720p Willfon)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-j-us-jp.png" group-title="NEWS",CNN J (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (720p Willfon)
@@ -1950,3 +1949,5 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース (Stream2)
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+
+
