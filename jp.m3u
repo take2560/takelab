@@ -1532,6 +1532,36 @@ http://cdn-th136.cloudrsst.com/live/igasennmonn_540/playlist.m3u8
 #EXTINF:-1 tvg-id="63312" tvg-logo="https://i.postimg.cc/ydDMrbTZ/Nihon-Eiga-Senmon-Channel.jpg" group-title="BS4 (cloudrsst)",日本映画専門チャンネル (540p cloudrsst33)
 http://cdn-hk-33.cloudrsst.com/live/igasennmonn_540/playlist.m3u8
 
+#EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (720p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/jidaigeki_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (720p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/jidaigeki_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (720p cloudrsst154)
+http://dn-us-154.cloudrsst.com/live/jidaigeki_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (720p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/jidaigeki_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (720p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/jidaigeki_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/jidaigeki_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/jidaigeki_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (540p cloudrsst154)
+http://dn-us-154.cloudrsst.com/live/jidaigeki_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/jidaigeki_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/jidaigeki_540/playlist.m3u8
+
 #CS1 (720p)
 
 #EXTINF:-1 tvg-id="63049" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="CS1 (720p)",AT-X (720p Stream)
