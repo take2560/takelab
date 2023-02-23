@@ -6,5 +6,5 @@ Reference URL
 :  https://github.com/iptv-org/iptv
 
 jp.m3u  EPG
-:  https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_JP.xml 
+:  https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_JP.xml
 :  time shift -10h (JST)
