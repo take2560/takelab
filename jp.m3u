@@ -50,49 +50,58 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 #EXTINF:-1 tvg-id="63343" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="DTV2 (480p)",TOKYO MX1 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 
-#DTV3 (unstable)
+#DTV3 (vthanhtivi)
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=Hqm-m7jqkFlA1CloJoaJZQ==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合1 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=14
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=j7SQYfwTF63S9FmRqrjNJw==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合2 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=321
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=gnpNcLEhwujjXOxTl7gaJg==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合3 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=25
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBSテレビ (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=bRZUMcrX_kQ5R0XP-xJcZg==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=3
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63394" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=dfVr67j-Iy_J5tM4jYI7gQ==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育2 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=322
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63382" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", テレビ朝日  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=iU_IC-e38CjfLhlvUxqWRg==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (vthanhtivi) 
+https://api.vthanhtivi.pw/test/jp.php?id=4
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", テレビ東京 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=dRNhWs1DLdcWq_ufN6fElg==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBSテレビ (vthanhtivi) 
+https://api.vthanhtivi.pw/test/jp.php?id=5
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="63343" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63394" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ  (vthanhtivi)  
+https://api.vthanhtivi.pw/test/jp.php?id=12
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=LqzQ_qk7P8LNOaghAThx4g==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63382" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", テレビ朝日  (vthanhtivi)  
+https://api.vthanhtivi.pw/test/jp.php?id=7
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS毎日放送 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=R3W0ABMki1QGwd3TxPxjhA==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", テレビ東京 (vthanhtivi) 
+https://api.vthanhtivi.pw/test/jp.php?id=8
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", カンテレ (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=jXAkGPMC5sVcMvQ09HoU4g==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63343" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=17
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC朝日放送 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=oI8q04LSmuVJ76lxll2FWg==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS毎日放送 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=18
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="TVOsaka.jp" tvg-logo="https://asianwiki.com/images/e/e1/TV_Osaka-p1.png", テレビ大阪  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=czZDtneIVvfAZn-728ylZw==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC朝日放送 (vthanhtivi) 
+https://api.vthanhtivi.pw/test/jp.php?id=28
 
-#EXTINF:-1 group-title="DTV3 (unstable)" tvg-id="JOBRDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png", KBS京都 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=hFzosjtNqYtZGMMnkL0T7w==
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", カンテレ (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=20
+
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (vthanhtivi)
+https://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
+
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="TVOsaka.jp" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", テレビ大阪  (vthanhtivi) 
+https://api.vthanhtivi.pw/test/jp.php?id=22
+
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="JOBRDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png", KBS京都 (vthanhtivi) 
+https://api.vthanhtivi.pw/test/jp.php?id=21
 
 #DTV4 (cloudrsst)
 
@@ -471,34 +480,34 @@ https://cdn-th136.cloudrsst.com/live/kansi_yomiuri_1080/playlist.m3u8
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (1080p cloudrsst33)
 https://cdn-hk-33.cloudrsst.com/live/kansi_yomiuri_1080/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (720p unstable194)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (720p vthanhtivi194)
 https://cdnul194.cloudrsst.com/live/kansi_yomiuri_720/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (720p unstable186)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (720p vthanhtivi186)
 https://cdn-us-186.cloudrsst.com/live/kansi_yomiuri_720/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (720p unstable154)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (720p vthanhtivi154)
 https://cdn-us-154.cloudrsst.com/live/kansi_yomiuri_720/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (720p unstable136)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (720p vthanhtivi136)
 https://cdn-th136.cloudrsst.com/live/kansi_yomiuri_720/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (720p unstable33)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (720p vthanhtivi33)
 https://cdn-hk-33.cloudrsst.com/live/kansi_yomiuri_720/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (540p unstable194)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (540p vthanhtivi194)
 https://cdnul194.cloudrsst.com/live/kansi_yomiuri_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (540p unstable186)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (540p vthanhtivi186)
 https://cdn-us-186.cloudrsst.com/live/kansi_yomiuri_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (540p unstable154)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (540p vthanhtivi154)
 https://cdn-us-154.cloudrsst.com/live/kansi_yomiuri_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (540p unstable136)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (540p vthanhtivi136)
 https://cdn-th136.cloudrsst.com/live/kansi_yomiuri_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (540p unstable33)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (540p vthanhtivi33)
 https://cdn-hk-33.cloudrsst.com/live/kansi_yomiuri_480/playlist.m3u8
 
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS毎日放送 (1080p cloudrsst194)
@@ -841,94 +850,92 @@ http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 #EXTINF:-1 tvg-id="63006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="BS2 (480p)",ディズニーチャンネル (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 
-#BS3 (unstable)
+#BS3 (vthanhtivi)
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62978" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=f-uLAeVdSWp9bd1XFM3Pzw==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 (vthanhtivi)  
+https://api.vthanhtivi.pw/test/jp.php?id=32
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62978" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 BS102 (unstable)  
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=KQxwxJVMr_ML8ZvsMsi8uQ==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BSプレミアム (vthanhtivi)  
+https://api.vthanhtivi.pw/test/jp.php?id=33
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BSプレミアム (unstable)  
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=z3QuIfTGLtMqsBfWF1H4Pg==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="NHKBS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png", NHK BS4K  (vthanhtivi)  
+https://api.vthanhtivi.pw/test/jp.php?id=163
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62980" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" , BS日テレ (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=9GYVLtOWedFVhurDZOtidw==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="BSNipponTV.jp" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png", BS日テレ (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=44
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62981" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png", BS朝日 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=CDf67JD0vmiC74DDaND-XA==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="BSAsahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png", BS朝日 (vthanhtivi)  
+https://api.vthanhtivi.pw/test/jp.php?id=35
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62982" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png", BS-TBS (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=JKQRufMevFV7GDKYePYwBQ==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="BSTBS.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png", BS-TBS (vthanhtivi)  
+https://api.vthanhtivi.pw/test/jp.php?id=36
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63268" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BSテレ東 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=y288Dc5aSplzqGsFpCvm-g==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="BSTVTokyo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BSテレ東 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=37
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62985" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg", BSフジ (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=1WFDcS4-Lv_4Qsnx8TQtgg==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="BSFuji.jp" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg", BSフジ (vthanhtivi)  
+https://api.vthanhtivi.pw/test/jp.php?id=38
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="BS11.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png", BS11  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=tEg54Q7WKFA66LWT0fB0gw==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="BS11.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png", BS11  (vthanhtivi) 
+https://api.vthanhtivi.pw/test/jp.php?id=157
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63321" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png", BS12  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=WEtgDOVPkrw08bZvlQM6fA==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png", BS12  (vthanhtivi) 
+https://api.vthanhtivi.pw/test/jp.php?id=114
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62986" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOWプライム (unstable) 
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=HloiOsNhiBm-DF9vVfFMTw==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="WOWOWPrime.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOWプライム (vthanhtivi) 
+https://api.vthanhtivi.pw/test/jp.php?id=39
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62987" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOWライブ (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=g8s69Z5bxLZgAoqqFT8iDg==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="WOWOWLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOWライブ (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=40
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63363" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOWシネマ (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=iF6iKCiap5agDJYZhyVjwg==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="WOWOWCinema.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOWシネマ (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=41
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63285" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png", WOWOWプラス (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=TfcJ9kWH1CIOv9xAI6BrBA==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="WowowPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png", WOWOWプラス (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=55
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63390" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", スターチャンネル1 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=yUuqXFK2vDyiwU66uQEQ1Q==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="Star1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", スターチャンネル1 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=52
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62990" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", スターチャンネル2 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=NGPH2Brrn3gqcgdTIhVmwg==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="Star2.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", スターチャンネル2 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=53
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63397" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", スターチャンネル3 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=90LieNPzSaD1VOpEeT7f1w==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="Star3.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", スターチャンネル3 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=54
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62998" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BSアニマックス (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=M9b8YoeShhTsfaXXoNZJDw==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="63009" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/BS-Yoshimoto.svg/revision/latest/scale-to-width-down/300?cb=20220315152056", BSよしもと (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=108
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63003" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png", 釣りビジョン (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=chSauCF_-xtI2nAKn1HIVw==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="63329" tvg-logo="https://spice.eplus.jp/images/I1yDwjvMRViPzKUCyRmiq0ES03KPPQlBIsn5FSq74vVic3lLWndaqZmYcuWaoiRJ", BS 松竹東急 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=125
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_sky_perfect_241.png", BSスカパー! (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=afavNfE5CyADY6llwTTbHQ==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="63008" tvg-logo=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYwD-7Q7sIwvFdQSF4piOuDF2-tmF7TqaUiYDobQHnHZJqrbGSGPbTwSUC&s=10, BS Japanext (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=117
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63333" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 1  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=I4-UBbWeNgikTsL_LV-s-g==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=60
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63342" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 2  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=__DfWcLmTP6pOiYyxsaMLQ==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="Animax.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BSアニマックス (vthanhtivi)  
+https://api.vthanhtivi.pw/test/jp.php?id=56
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63399" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 3  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=uwliL6IX2s7jD1yJwLogYA==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="JSports1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 1  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=68
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63406" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 4  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=iTJCVvFevlmYFWr2kDu6tg==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="JSports2.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 2  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=69
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="JSports3.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 3  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=70
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="JSports4.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 4  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=71
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63312" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png", 日本映画専門チャンネル (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=EZ01kN4IL0TFHR5h9Jq9BA==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="FishingVision.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png", 釣りビジョン (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=98
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png", 時代劇専門チャンネル (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=vi2tgiOfMprwHEgs9gJxag==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png", 日本映画専門チャンネル (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=57
 
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png", ディズニーチャンネル (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=iEpvKTL_zcrh2cTR1D8EUA==
-
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="62997" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン ch (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=VJxE-FBlx64-LontMCBEVw==
-
-#EXTINF:-1 group-title="BS3 (unstable)" tvg-id="63344" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png", NHK BS4K  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=thRBrsQy5LgM0YhR7EJudg==
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png", ディズニーチャンネル (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=58
 
 #BS4 (cloudrsst)
 
@@ -1621,136 +1628,136 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="63015" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS1 (720p)",スカイA (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#CS2 (unstable) 
+#CS2 (vthanhtivi) 
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63049" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=X4_3qVMPUBpZMqO_hX4vBw==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="TABIChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tabi_channel.png", 旅チャンネル (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=138
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63043" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV Japan  (unstable)  
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=r92x5aJGtFjpXj4FtPuvAw==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="im_using_jcom_epg_lol" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tetsudo_channel_jp.png", 鉄道チャンネル (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=158
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="idk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png", Music JapanTV  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=N-L_Pke3yIkFUoSaEova3g==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="FightingTVSamurai.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fighting-tv-samurai-jp.png", FIGHTING TV サムライ (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=139
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63286" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv.png", スペースシャワーTV (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=lM09rEVGeA61wjdQwZTdzg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="EntermeiTele.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/entermei-telepng-jp.png", エンタメ～テレシネドラバラエティ (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=308
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63338" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv_plus.png", スペースシャワーTV プラス (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=e0RBTvrOfe06oOkn-UXX5w==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="MusicAir.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_air_networks.png", ミュージック・エア (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=149
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63044" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_air_networks.png", ミュージック・エア (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=IXnt-Gl6_yvCaN-Xpya22w==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="idk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png", Music JapanTV  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=156
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63339" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png", Music ON TV! (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=6eHaPTJd0NoBEwN6E9jArw==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="SpaceShowerTVPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv_plus.png", スペースシャワーTV プラス (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=155
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63047" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=xh4GJxN8zJFL3SmJ1P6Xsg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ホームドラマチャンネル  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=86
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63401" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", チャンネルNECO (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=EqJ7OEIS3u-Jkyx3-DdtJA==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="idk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pigoo-jp.png", アイドル専門チャンネルPigoo  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=234
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63014" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=84u-cm6u_Ms6JzWF4Dbtkg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="DanceChannel.jp" tvg-logo="https://www.dance-ch.jp/image/common/logo_f.png", ダンスチャンネル (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=140
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63013" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png", ザ・シネマ (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=gnFwEiPGB-QioCyMBfvEMA==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="ToeiChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=85
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63010" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=jfiMPwRAVsgTmcnf9Wu7HQ==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="EiseiGekijo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", 衛星劇場 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=84
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63011" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", 衛星劇場 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=FcJRBrNCLHjS9wKtD2rz7g==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="ChannelNeco.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", チャンネルNECO (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=83
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63022" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ホームドラマチャンネル  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=859y5OLm0n2u1DZrEsgeFQ==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="TheCinema.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png", ザ・シネマ (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=141
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63280" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_ginga.png", チャンネル銀河  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=gQmngIMvdnJvKcjGLAYJOw==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="MoviePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=73
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63359" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png", スーパー!ドラマTV  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=Dx-fj30YfMqlPP9MVx7qvQ==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", スカイA (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=72
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63036" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.png", FOX Japan (unstable)  
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=3d_lKfbxi344MiAxcjIypQ==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="GaoraSports.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=1
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63372" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png", LaLaTV (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=tQU0QsuMA_251h8Mk4qrsw==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="NitteleGPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=90
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63021" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", ファミリー劇場 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=YZdcUvyN3G-Zw8OiuJVXxA==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="GolfNetwork.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-network-jp.png", ゴルフネットワーク (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=67
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63368" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mondo_tv_jp.png", MONDO TV (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=6WNaVnjpGGYCdDmSAxSvFA==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="TakarazukaSkyStage.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/takarazuka_sky_stage.png", 宝塚歌劇専門チャンネル  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=142
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pigoo-jp.png", アイドル専門チャンネルPigoo  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=epy3fdtnc1oI4z5JrjZzAQ==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="FamilyGekijyo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", ファミリー劇場 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=87
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63266" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/takarazuka_sky_stage.png", 宝塚歌劇専門チャンネル  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=8qP22e52mcp47prxNsRFnw==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="MondoTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mondo_tv_jp.png", MONDO TV (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=143
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63029" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/entermei-telepng-jp.png", エンタメ～テレシネドラバラエティ (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=rGGe5kUnXQLOF4lnneST1g==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="TBSChannel1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-1-jp.png", TBSチャンネル1  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=144
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63301" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tabi_channel.png", 旅チャンネル (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=bMt3M9FLE1owVWp5Do1qnQ==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="TBSChannel2.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-2-jp.png", TBSチャンネル2   (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=145
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tetsudo_channel_jp.png", 鉄道チャンネル (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=X5WzyzsdPL1pNzWxOctwBA==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="TVAsahiChannel1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel1.png", テレ朝チャンネル1  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=160
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63305" tvg-logo="https://www.dance-ch.jp/image/common/logo_f.png", ダンスチャンネル (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=kKx57kaG4Tz9tOTiLx8exA==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="TVAsahiChannel2.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel2.png", テレ朝チャンネル2   (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=161
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63018" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-network-jp.png", ゴルフネットワーク (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=cmvgVwk7m4psiGgDwUS7LA==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="NittelePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nittele-plus-jp.png", 日テレプラス  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=237
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63267" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fighting-tv-samurai-jp.png", FIGHTING TV サムライ (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=roHA-uoOn8d5muaZM04Qxg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="FujiTVOne.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_one.png", フジテレビONE  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=146
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63015" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", スカイA (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=oJyS_HypG6uzUEEJODMaWg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="FujiTVTwo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_two.png", フジテレビTWO  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=147
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63016" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=tO9COl46v4MdIi1NdbzL0A==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="FujiTVNext.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_next.png", フジテレビNEXT  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=148
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63028" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nittele-plus-jp.png", 日テレプラス  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=1c9wCVY_quBwDk4RNxuPWw==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="SuperDramaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png", スーパー!ドラマTV  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=133
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63017" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=dXGFqT_agGYcOrjCIa5vPg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="FoxJapan.jp" tvg-logo="https://foxnetworks.jp/core/img/logo_mainfox.pngg", FOX Japan (vthanhtivi)    
+https://api.vthanhtivi.pw/test/jp.php?id=95
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63024" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-1-jp.png", TBSチャンネル1  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=XPdnc60q681yL5pyEmrslg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="LaLaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png", LaLaTV (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=132
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63277" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-2-jp.png", TBSチャンネル2   (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=lnkIr92VbBZwz09Cjs9UGg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="SpaceShowerTV.j" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv.png", スペースシャワーTV (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=236
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63376" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_one.png", フジテレビONE  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=VelQc1lmVJnTyEmr6oK1RA==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="MTVJapan.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV Japan  (vthanhtivi)    
+https://api.vthanhtivi.pw/test/jp.php?id=74
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63311" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_two.png", フジテレビTWO  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=3q1U1u-6q9QMDWuMuvpPUA==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="MusicOnTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png", Music ON TV! (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=131
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63282" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_next.png", フジテレビNEXT  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=rhKOiZXma2k2EoIaL9RCmg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=81
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63306" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel1.png", テレ朝チャンネル1  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=-KcK0oRN-MHmABr2tu77zg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=107
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63364" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel2.png", テレ朝チャンネル2   (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=RLwfnqOjOHGRx6UW3qBXsg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="idk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", ディズニージュニア  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=89
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63290" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", ディズニージュニア (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=xPz9TWJwU7yL_fToz1k9sg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="TheHistoryChannelJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", ヒストリーチャンネル (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=309
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63053" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", ヒストリーチャンネル (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=I9B-HWhc2NgCmw6X9ahDMg==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", ディスカバリーチャンネル (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=99
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png", ナショナル ジオグラフィック (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=OZooDkZinq-FLyeL7jtOHw==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="NationalGeographicJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-us.svg", ナショナル ジオグラフィック (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=75
 
-#EXTINF:-1 group-title="CS2 (unstable)" tvg-id="63386" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-live-plus-jp.png", スポーツライブ+  (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=-uV8jOhgHBRuuEMBdU0Yig==
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="SportsLivePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-live-plus-jp.png", スポーツライブ+  (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=150
 
 #CS3 (cloudrsst)
 
@@ -1957,8 +1964,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="63384" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="NEWS" tvg-id="63384" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg", 日テレNEWS24 (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=TUUoaNpgwX_Bs7GXhkkw_g==
+#EXTINF:-1 group-title="NEWS" tvg-id="NTVNews24.jp" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg", 日テレNEWS24 (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=112
 
 #EXTINF:-1 tvg-id="63384" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (480p Official1)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -1969,8 +1976,8 @@ https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg=s100-c-k-c0x00ffffff-no-rj", TBS NEWS DIG (stream)
 https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-id="63410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png", TBSニュースバード (unstable)
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=D6eJg7aQZE3DKVZWNTTnYw==
+#EXTINF:-1 group-title="NEWS" tvg-id="TBSNews.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png", TBSニュースバード (vthanhtivi)
+https://api.vthanhtivi.pw/test/jp.php?id=233
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Htb_logo.svg/2093px-Htb_logo.svg.png" group-title="NEWS",北海道ニュース24 (720p Stream)
 http://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
@@ -1980,5 +1987,3 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース (Stream2)
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-
-
