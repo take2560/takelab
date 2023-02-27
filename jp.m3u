@@ -1704,7 +1704,7 @@ http://cdn-hk-33.cloudrsst.com/live/green_540/playlist.m3u8
 #EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst148)
 https://cdnv148.cloudrsst.com:443/jptv/green_540/playlist.m3u8
 
-#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst194)
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p jpnettv11)
 https://cdn.th11.jpnettv.live:443/live/green_540/playlist.m3u8
 
 #CS1 (720p)
