@@ -3,7 +3,7 @@
 
 #MAIN DTV1 (720p)
 
-#EXTINF:-1 tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK総合 (720p Willfon)
+#EXTINF:-1 tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK総合 東京 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK教育 (720p Willfon)
@@ -26,7 +26,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:2
 
 #DTV2 (480p)
 
-#EXTINF:-1 tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (480p)",NHK総合 (480p redlabmcdn)
+#EXTINF:-1 tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (480p)",NHK総合 東京 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (480p)",NHK教育 (480p redlabmcdn)
@@ -52,13 +52,13 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 
 #DTV3 (vthanhtivi)
 
-#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合1 (vthanhtivi)
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京1 (vthanhtivi)
 https://api.vthanhtivi.pw/test/jp.php?id=14
 
-#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合2 (vthanhtivi)
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京2 (vthanhtivi)
 https://api.vthanhtivi.pw/test/jp.php?id=321
 
-#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合3 (vthanhtivi)
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京3 (vthanhtivi)
 https://api.vthanhtivi.pw/test/jp.php?id=25
 
 #EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (vthanhtivi)
@@ -105,50 +105,131 @@ https://api.vthanhtivi.pw/test/jp.php?id=21
 
 #DTV4 (cloudrsst)
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (1080p cloudrsst194)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (1080p cloudrsst194)
 https://cdnul194.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (1080p cloudrsst186)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (1080p cloudrsst186)
 https://cdn-us-186.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (1080p cloudrss154)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (1080p cloudrss154)
 https://cdn-us-154.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (1080p cloudrsst136)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (1080p cloudrsst136)
 https://cdn-th136.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (1080p cloudrsst33)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (1080p cloudrsst33)
 https://cdn-hk-33.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (720p cloudrsst194)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (1080p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kanto_nhk_g_1080/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (1080p jpnettv11)
+https://cdn.th11.jpnettv.live:443/live/kanto_nhk_g_1080/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (720p cloudrsst194)
 https://cdnul194.cloudrsst.com/live/kanto_nhk_g_720/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (720p cloudrsst186)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (720p cloudrsst186)
 https://cdn-us-186.cloudrsst.com/live/kanto_nhk_g_720/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (720p cloudrsst154)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (720p cloudrsst154)
 https://cdn-us-154.cloudrsst.com/live/kanto_nhk_g_720/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (720p cloudrsst136)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (720p cloudrsst136)
 https://cdn-th136.cloudrsst.com/live/kanto_nhk_g_720/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (720p cloudrsst33)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (720p cloudrsst33)
 https://cdn-hk-33.cloudrsst.com/live/kanto_nhk_g_720/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (540p cloudrsst194)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (720p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kanto_nhk_g_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (720p jpnettv11)
+https://cdn.th11.jpnettv.live:443/live/kanto_nhk_g_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (540p cloudrsst194)
 https://cdnul194.cloudrsst.com/live/kanto_nhk_g_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (540p cloudrsst186)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (540p cloudrsst186)
 https://cdn-us-186.cloudrsst.com/live/kanto_nhk_g_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (540p cloudrsst154)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (540p cloudrsst154)
 https://cdn-us-154.cloudrsst.com/live/kanto_nhk_g_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (540p cloudrsst136)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (540p cloudrsst136)
 https://cdn-th136.cloudrsst.com/live/kanto_nhk_g_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 (540p cloudrsst33)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (540p cloudrsst33)
 https://cdn-hk-33.cloudrsst.com/live/kanto_nhk_g_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (540p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kanto_nhk_g_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (540p jpnettv11)
+https://cdn.th11.jpnettv.live:443/live/kanto_nhk_g_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (1080p cloudrsst194)
+https://cdnul194.cloudrsst.com/live/kansi_nhk_g_1080//playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (1080p cloudrsst186)
+https://cdn-us-186.cloudrsst.com/live/kansi_nhk_g_1080//playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (1080p cloudrss154)
+https://cdn-us-154.cloudrsst.com/live/kansi_nhk_g_1080//playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (1080p cloudrsst136)
+https://cdn-th136.cloudrsst.com/live/kansi_nhk_g_1080//playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (1080p cloudrsst33)
+https://cdn-hk-33.cloudrsst.com/live/kansi_nhk_g_1080//playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (1080p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kansi_nhk_g_1080//playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (1080p jpnettv11)
+https://cdn.th11.jpnettv.live:443/live/kansi_nhk_g_1080/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (720p cloudrsst194)
+https://cdnul194.cloudrsst.com/live/kansi_nhk_g_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (720p cloudrsst186)
+https://cdn-us-186.cloudrsst.com/live/kansi_nhk_g_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (720p cloudrsst154)
+https://cdn-us-154.cloudrsst.com/live/kansi_nhk_g_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (720p cloudrsst136)
+https://cdn-th136.cloudrsst.com/live/kansi_nhk_g_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (720p cloudrsst33)
+https://cdn-hk-33.cloudrsst.com/live/kansi_nhk_g_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (720p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kansi_nhk_g_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (720p jpnettv11)
+https://cdn.th11.jpnettv.live:443/live/kansi_nhk_g_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (540p cloudrsst194)
+https://cdnul194.cloudrsst.com/live/kansi_nhk_g_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (540p cloudrsst186)
+https://cdn-us-186.cloudrsst.com/live/kansk_nhk_g_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (540p cloudrsst154)
+https://cdn-us-154.cloudrsst.com/live/kansi_nhk_g_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (540p cloudrsst136)
+https://cdn-th136.cloudrsst.com/live/kansi_nhk_g_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (540p cloudrsst33)
+https://cdn-hk-33.cloudrsst.com/live/kansi_nhk_g_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (540p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kansi_nhk_g_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (540p jpnettv11)
+https://cdn.th11.jpnettv.live:443/live/kansi_nhk_g_480/playlist.m3u8
 
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (1080p cloudrsst194)
 https://cdnul194.cloudrsst.com/live/kanto_nhk_edu_1080/playlist.m3u8
@@ -165,6 +246,12 @@ https://cdn-th136.cloudrsst.com/live/kanto_nhk_edu_1080/playlist.m3u8
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (1080p cloudrsst33)
 https://cdn-hk-33.cloudrsst.com/live/kanto_nhk_edu_1080/playlist.m3u8
 
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (1080p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kanto_nhk_edu_1080/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (1080p jpnettv11)
+https://cdn.th11.jpnettv.live:443/live/kanto_nhk_edu_1080/playlist.m3u8
+
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (720p cloudrsst194)
 https://cdnul194.cloudrsst.com/live/kanto_nhk_edu_720/playlist.m3u8
 
@@ -179,6 +266,12 @@ https://cdn-th136.cloudrsst.com/live/kanto_nhk_edu_720/playlist.m3u8
 
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (720p cloudrsst33)
 https://cdn-hk-33.cloudrsst.com/live/kanto_nhk_edu_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (720p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kanto_nhk_edu_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (720p jpnettv11)
+https://cdn.th11.jpnettv.live:443/live/kanto_nhk_edu_720/playlist.m3u8
 
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (540p cloudrsst194)
 https://cdnul194.cloudrsst.com/live/kanto_nhk_edu_480/playlist.m3u8
@@ -195,6 +288,12 @@ https://cdn-th136.cloudrsst.com/live/kanto_nhk_edu_480/playlist.m3u8
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (540p cloudrsst33)
 https://cdn-hk-33.cloudrsst.com/live/kanto_nhk_edu_480/playlist.m3u8
 
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (540p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kanto_nhk_edu_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (540p jpnettv11)
+https://cdn.th11.jpnettv.live:443/live/kanto_nhk_edu_480/playlist.m3u8
+
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (1080p cloudrsst194)
 https://cdnul194.cloudrsst.com/live/kanto_nippon_1080/playlist.m3u8
 
@@ -209,6 +308,12 @@ https://cdn-th136.cloudrsst.com/live/kanto_nippon_1080/playlist.m3u8
 
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (1080p cloudrsst33)
 https://cdn-hk-33.cloudrsst.com/live/kanto_nippon_1080/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (1080p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kanto_nippon_1080/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (1080p jpnettv11)
+https://cdn.th11.jpnettv.live:443/live/kanto_nippon_1080/playlist.m3u8
 
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (720p cloudrsst194)
 https://cdnul194.cloudrsst.com/live/kanto_nippon_720/playlist.m3u8
@@ -225,20 +330,32 @@ https://cdn-th136.cloudrsst.com/live/kanto_nippon_720/playlist.m3u8
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (720p cloudrsst33)
 https://cdn-hk-33.cloudrsst.com/live/kanto_nippon_720/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (480p cloudrsst194)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (720p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kanto_nippon_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (720p jpnettv11)
+https://cdnv148.cloudrsst.com:443/jptv/kanto_nippon_720/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (540p cloudrsst194)
 https://cdnul194.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (480p cloudrsst186)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (540p cloudrsst186)
 https://cdn-us-186.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (480p cloudrsst154)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (540p cloudrsst154)
 https://cdn-us-154.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (480p cloudrsst136)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (540p cloudrsst136)
 https://cdn-th136.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8
 
-#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (480p cloudrsst33)
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (540p cloudrsst33)
 https://cdn-hk-33.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (540p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/kanto_nippon_480/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (540p jpnettv11)
+https://cdn.th11.jpnettv.live:443/live/kanto_nippon_480/playlist.m3u8
 
 #EXTINF:-1 group-title="DTV4 (cloudrsst)" tvg-id="63261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBSテレビ (1080p cloudrsst194)
 https://cdnul194.cloudrsst.com/live/kanto_tbs_1080/playlist.m3u8
@@ -1568,6 +1685,27 @@ http://cdn-th136.cloudrsst.com/live/jidaigeki_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (540p cloudrsst33)
 http://cdn-hk-33.cloudrsst.com/live/jidaigeki_540/playlist.m3u8
+
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst194)
+http://cdnul194.cloudrsst.com/live/green_540/playlist.m3u8
+
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst186)
+http://cdn-us-186.cloudrsst.com/live/green_540/playlist.m3u8
+
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst154)
+http://cdn-us-154.cloudrsst.com/live/green_540/playlist.m3u8
+
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst136)
+http://cdn-th136.cloudrsst.com/live/green_540/playlist.m3u8
+
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst33)
+http://cdn-hk-33.cloudrsst.com/live/green_540/playlist.m3u8
+
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst148)
+https://cdnv148.cloudrsst.com:443/jptv/green_540/playlist.m3u8
+
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst194)
+https://cdn.th11.jpnettv.live:443/live/green_540/playlist.m3u8
 
 #CS1 (720p)
 
