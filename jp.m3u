@@ -95,13 +95,13 @@ https://api.vthanhtivi.pw/test/jp.php?id=28
 https://api.vthanhtivi.pw/test/jp.php?id=20
 
 #EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (vthanhtivi)
-https://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
+https://api.vthanhtivi.pw/test/jp.php?id=21
 
 #EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="TVOsaka.jp" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", テレビ大阪  (vthanhtivi) 
 https://api.vthanhtivi.pw/test/jp.php?id=22
 
 #EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="JOBRDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png", KBS京都 (vthanhtivi) 
-https://api.vthanhtivi.pw/test/jp.php?id=21
+https://api.vthanhtivi.pw/test/jp.php?id=23
 
 #DTV4 (cloudrsst)
 
