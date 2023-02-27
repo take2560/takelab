@@ -999,7 +999,7 @@ https://api.vthanhtivi.pw/test/jp.php?id=157
 #EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png", BS12  (vthanhtivi) 
 https://api.vthanhtivi.pw/test/jp.php?id=114
 
-#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="WOWOWPrime.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOWプライム (vthanhtivi) 
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="WOWOWPrime.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png", WOWOWプライム (vthanhtivi) 
 https://api.vthanhtivi.pw/test/jp.php?id=39
 
 #EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="WOWOWLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOWライブ (vthanhtivi)
