@@ -52,19 +52,19 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 
 #DTV3 (vthanhtivi)
 
-#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="62965" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京1 (vthanhtivi)
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="62965" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 (vthanhtivi)
 https://api.vthanhtivi.pw/test/jp.php?id=14
 
-#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="62965" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京2 (vthanhtivi)
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="62965" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 京都 (vthanhtivi)
 https://api.vthanhtivi.pw/test/jp.php?id=321
 
-#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="62965" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京3 (vthanhtivi)
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="62965" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪 (vthanhtivi)
 https://api.vthanhtivi.pw/test/jp.php?id=25
 
-#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="62966" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 (vthanhtivi)
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="62966" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 東京 (vthanhtivi)
 https://api.vthanhtivi.pw/test/jp.php?id=3
 
-#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="62966" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育2 (vthanhtivi)
+#EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="62966" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育 大阪 (vthanhtivi)
 https://api.vthanhtivi.pw/test/jp.php?id=322
 
 #EXTINF:-1 group-title="DTV3 (vthanhtivi)" tvg-id="62967" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (vthanhtivi) 
