@@ -1688,25 +1688,25 @@ http://cdn-th136.cloudrsst.com/live/jidaigeki_540/playlist.m3u8
 #EXTINF:-1 tvg-id="63020" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" group-title="BS4 (cloudrsst)",時代劇専門チャンネル (540p cloudrsst33)
 http://cdn-hk-33.cloudrsst.com/live/jidaigeki_540/playlist.m3u8
 
-#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst194)
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="62997" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst194)
 http://cdnul194.cloudrsst.com/live/green_540/playlist.m3u8
 
-#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst186)
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="62997" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst186)
 http://cdn-us-186.cloudrsst.com/live/green_540/playlist.m3u8
 
-#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst154)
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="62997" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst154)
 http://cdn-us-154.cloudrsst.com/live/green_540/playlist.m3u8
 
-#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst136)
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="62997" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst136)
 http://cdn-th136.cloudrsst.com/live/green_540/playlist.m3u8
 
-#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst33)
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="62997" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst33)
 http://cdn-hk-33.cloudrsst.com/live/green_540/playlist.m3u8
 
-#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst148)
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="62997" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p cloudrsst148)
 https://cdnv148.cloudrsst.com:443/jptv/green_540/playlist.m3u8
 
-#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p jpnettv11)
+#EXTINF:-1 group-title="BS4 (cloudrsst)" tvg-id="62997" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (540p jpnettv11)
 https://cdn.th11.jpnettv.live:443/live/green_540/playlist.m3u8
 
 #CS1 (720p)
@@ -1893,7 +1893,7 @@ https://api.vthanhtivi.pw/test/jp.php?id=309
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="63051" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", ディスカバリーチャンネル (vthanhtivi)
 https://api.vthanhtivi.pw/test/jp.php?id=99
 
-#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="63054" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-us.svg", ナショナル ジオグラフィック (vthanhtivi)
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="63054" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png", ナショナル ジオグラフィック (vthanhtivi)
 https://api.vthanhtivi.pw/test/jp.php?id=75
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="63061" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-live-plus-jp.png", スポーツライブ+  (vthanhtivi)
