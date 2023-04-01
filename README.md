@@ -6,5 +6,5 @@ Reference URL
 :  https://github.com/iptv-org/iptv
 
 EPG (timeshift 0 (JST))   
-:  http://epg.dinhluong.jp/jp.xml   
-:  http://epg.dinhluong.jp/jpkansai.xml
+:  http://epg.hidari.moe/jp.xml   
+:  http://epg.hidari.moe/jpkansai.xml
