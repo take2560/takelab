@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="http://epg.dinhluong.jp/jp.xml,http://epg.dinhluong.jp/jpkansai.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.hidari.moe/jp.xml,http://epg.hidari.moe/jpkansai.xml" tvg-shift=0 m3uautoload=1
 
 #MAIN DTV1 (720p)
 
