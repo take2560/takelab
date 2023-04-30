@@ -7,7 +7,5 @@ Reference URL
 
 EPG (timeshift 0 (JST))   
 :  http://epg.hidari.moe/jp.xml   
-:  http://epg.hidari.moe/jpkansai.xml
+:  http://epg.hidari.moe/jpkansai.xml 
 :  https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz
- 
-
