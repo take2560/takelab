@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="http://epg.hidari.moe/jp.xml,http://epg.hidari.moe/jpkansai.xml " tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.hidari.moe/jp.xml,http://epg.hidari.moe/jpkansai.xml,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz " tvg-shift=0 m3uautoload=1
 
 #MAIN DTV1 (720p)
 
@@ -692,7 +692,7 @@ http://rip.hidari.moe/get/jptv/get.php?id=cmvgVwk7m4psiGgDwUS7LA==
 #EXTINF:-1 group-title="CS3 (vthanhtivi2)" tvg-id="skystage" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/takarazuka_sky_stage.png", 宝塚歌劇専門チャンネル  (vthanhtivi2)
 http://rip.hidari.moe/get/jptv/get.php?id=8qP22e52mcp47prxNsRFnw==
 
-#EXTINF:-1 group-title="CS3 (vthanhtivi2)" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png",tvg-name="時代劇専門チャンネル  (vthanhtivi2)
+#EXTINF:-1 group-title="CS3 (vthanhtivi2)" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png",時代劇専門チャンネル  (vthanhtivi2)
 http://rip.hidari.moe/get/jptv/get.php?id=vi2tgiOfMprwHEgs9gJxag==
 
 #EXTINF:-1 group-title="CS3 (vthanhtivi2)" tvg-id="familygeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", ファミリー劇場 (vthanhtivi2)
