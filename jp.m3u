@@ -409,7 +409,8 @@ https://code.vthanhtivi.pw/getlink/jptv3/42/playlist.m3u8
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png",時代劇専門チャンネル  (vthanhtivi)
 https://code.vthanhtivi.pw/getlink/jptv3/61/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="cartoonnw" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cartoon_network_modified_logo.PNG/320px-Cartoon_network_modified_logo.PNG" group-title="CS2 (vthanhtivi)",Cartoon Network (vthanhtivi)
+https://code.vthanhtivi.pw/getlink/jptv3/55/playlist.m3u8
 
 
 #NEWS
