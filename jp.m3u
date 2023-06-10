@@ -46,6 +46,7 @@ http://code.vthanhtivi.pw/getlink/jptv3/2/playlist.m3u8
 
 #EXTINF:-1 group-title="DTV2(vthanhtivi)" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ HD (vthanhtivi) 
 http://code.vthanhtivi.pw/getlink/jptv3/202/playlist.m3u8
+
 #EXTINF:-1 group-title="DTV2(vthanhtivi)" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ (vthanhtivi)  
 http://code.vthanhtivi.pw/getlink/jptv3/4/playlist.m3u8
 
@@ -266,7 +267,7 @@ https://code.vthanhtivi.pw/getlink/jptv3/226/playlist.m3u8
 #EXTINF:-1 group-title="BS2 (vthanhtivi)" tvg-id="starch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", スターチャンネル3 (vthanhtivi)
 https://code.vthanhtivi.pw/getlink/jptv3/35/playlist.m3u8
 
-#EXTINF:-1 group-title="BS2 (vthanhtivi)" tvg-id="greench" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", Gグリーン チャンネル (vthanhtivi)  
+#EXTINF:-1 group-title="BS2 (vthanhtivi)" tvg-id="greench" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (vthanhtivi)  
 https://code.vthanhtivi.pw/getlink/jptv3/41/playlist.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanhtivi)" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BSアニマックス (vthanhtivi)    
@@ -369,7 +370,7 @@ https://code.vthanhtivi.pw/getlink/jptv3/141/playlist.m3u8
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス (vthanhtivi)
 https://code.vthanhtivi.pw/getlink/jptv3/49/playlist.m3u8
 
-#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="skya" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", ムービープラス (vthanhtivi)
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="skya" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", スカイA (vthanhtivi)
 https://code.vthanhtivi.pw/getlink/jptv3/47/playlist.m3u8
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS (vthanhtivi)  
@@ -388,7 +389,7 @@ https://code.vthanhtivi.pw/getlink/jptv3/63/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/jptv3/50/playlist.m3u8
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション  (vthanhtivi)
-https://code.vthanhtivi.pw/getlink/jptv3/64/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptv3/54/playlist.m3u8
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="disneyjr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", ディズニージュニア  (vthanhtivi)
 https://code.vthanhtivi.pw/getlink/jptv3/71/playlist.m3u8
@@ -398,6 +399,18 @@ https://code.vthanhtivi.pw/getlink/jptv3/53/playlist.m3u8
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png", ナショナル ジオグラフィック (vthanhtivi)
 https://code.vthanhtivi.pw/getlink/jptv3/51/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animalplanet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png"  group-title="CS2 (vthanhtivi)",アニマルプラネット(vthanhtivi)
+https://code.vthanhtivi.pw/getlink/jptv3/52/playlist.m3u8
+
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="golfnw" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-network-jp.png", ゴルフネットワーク (vthanhtivi)
+https://code.vthanhtivi.pw/getlink/jptv3/42/playlist.m3u8
+
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png",時代劇専門チャンネル  (vthanhtivi)
+https://code.vthanhtivi.pw/getlink/jptv3/61/playlist.m3u8
+
+
+
 
 #NEWS
 
