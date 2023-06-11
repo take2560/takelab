@@ -691,17 +691,21 @@ http://code.vthanhtivi.pw/getlink/jptv1/G7Ernt-n_X5V7KUcreybIQ==/playlist.m3u8
 #EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (vthanhtivi)
+http://code.vthanhtivi.pw/getlink/jptv1/TUUoaNpgwX_Bs7GXhkkw_g==/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (480p Official1)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (480p Official2)
 https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 
+#EXTINF:-1 group-title="NEWS" tvg-id="tbsnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png", TBSニュースバード (vthanhtivi)
+http://code.vthanhtivi.pw/getlink/jptv1/D6eJg7aQZE3DKVZWNTTnYw==/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg=s100-c-k-c0x00ffffff-no-rj", TBS NEWS DIG (stream)
 https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Htb_logo.svg/2093px-Htb_logo.svg.png" group-title="NEWS",北海道ニュース24 (720p Stream)
-http://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース (Stream1)
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
