@@ -3,5 +3,5 @@ IPTV for Japan
 
 
 EPG (timeshift 0 (JST))   
-https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz        
-https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz  
+http://epg.ra1n.lol/jp.xml
+https://epg.ra1n.lol/jpkansai.xml
