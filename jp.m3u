@@ -422,7 +422,7 @@ https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/140px-Mainichi_Broadcasting_System_logo.svg.png?20110904042013", MBS毎日放送 NEWS (youtube)
 https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SHmYLML.jpg" group-title="News",RKB毎日放送 NEWS (youtube)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SHmYLML.jpg" group-title="NEWS",RKB毎日放送 NEWS (youtube)
 https://ythls.armelin.one/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JBkXyvj.jpg" group-title="NEWS",TOSテレビ大分 NEWS (youtube)
