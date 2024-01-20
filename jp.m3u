@@ -398,8 +398,14 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (480p Official2)
 https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 
+#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/tEtAip-sN2g4DN_-G0dO1kgb8tpL4hZkJW4LDIpKECLostodleuohg1cA3hE4pOS__jZi32iFw", 日テレNEWS (youtube)
+https://ythls-v2.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-id="tbsnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png", TBSニュース
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ", 朝日新聞 NEWS (youtube)
+https://ythls-v2.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://i.imgur.com/vcGsZVD.png", HBC 北海道NEWS (youtube)
 https://ythls-v2.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
@@ -422,11 +428,14 @@ https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/uxFYyO107Bv7FK7fq9IXh9Marf_tqrXaTin1D8gGT1Z0ladRssiXm497wQh5Nr6KbdegwKO-9Q", NST新潟総合テレビ NEWS (youtube)
 https://ythls-v2.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/uTPF6q0RjDb7MTaDRHkj-gzcLwPce9z25V-kQzLxOujnmgyu8Xm5LwaicJwX_muZUdNqk8AH_A", BSN新潟放送 NEWS (youtube)
-https://ythls-v2.onrender.com/channel/UCoAQNKxgfE32ai4mOXNXvug.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ〜テレ名古屋テレビ NEWS  (youtube)
+https://ythls-v2.onrender.com/video/-C6FE2m7kX8.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/140px-Mainichi_Broadcasting_System_logo.svg.png?20110904042013", MBS毎日放送 NEWS (youtube)
 https://ythls-v2.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABC朝日放送テレビ NEWS (youtube)
+https://ythls-v2.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SHmYLML.jpg" group-title="NEWS",RKB毎日放送 NEWS (youtube)
 https://ythls-v2.onrender.com/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
