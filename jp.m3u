@@ -299,7 +299,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 #CS2 (vthanhtivi)
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
-http://jp.vthanhnetwork.com/AT-X/index.m3u8
+http://for-testonly.ra1n.lol/at-x/index.m3u8
 
 #CS3 (primehome)
 
