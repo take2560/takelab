@@ -58,7 +58,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&b
 #EXTINF:-1 group-title="地上波2" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
 
-#EXTINF:-1 group-title="地上波2" tvg-id="nhkgosaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪  (primehome)
+#EXTINF:-1 group-title="地上波2" tvg-id="nhkg_nara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪  (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="地上波2" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS毎日放送 (primehome)
@@ -70,7 +70,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&b
 #EXTINF:-1 group-title="地上波2" tvg-id="kansaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", カンテレ (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="地上波2" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (primehome)
+#EXTINF:-1 group-title="地上波2" tvg-id="yomiuritv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="地上波2" tvg-id="tvosaka" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", テレビ大阪 (primehome)  
