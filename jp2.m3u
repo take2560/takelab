@@ -27,6 +27,11 @@ http://jp.vthanhnetwork.com/TV_Tokyo/index.m3u8
 #EXTINF:-1 group-title="地上波1" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi)
 http://jp.vthanhnetwork.com/Tokyo_MX1/index.m3u8
 
+#EXTINF:-1 group-title="地上波1" tvg-id="tvsaitama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", テレビ埼玉 (vthanhtivi)
+http://for-testonly.ra1n.lol/teletama/index.m3u8
+
+#EXTINF:-1 group-title="地上波1" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png", テレビユー福島 (vthanhtivi)
+http://for-testonly.ra1n.lol/tuf/index.m3u8
 #地上波2
 
 #EXTINF:-1 tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="地上波2",NHK総合 東京 (primehome)
@@ -239,65 +244,65 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&b
 #EXTINF:-1 tvg-id="bbcnews" tvg-logo="https://www.ccn-catv.co.jp/service/tv/img/logo/bbcworldnews.png" group-title="NEWS",BBC NEWS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (720p Willfon)
+#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (480p Official1)
+#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (480p Official1)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="NEWS",日テレNEWS24 (480p Official2)
+#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (480p Official2)
 https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/tEtAip-sN2g4DN_-G0dO1kgb8tpL4hZkJW4LDIpKECLostodleuohg1cA3hE4pOS__jZi32iFw", 日テレNEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
+https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="tbsnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png", TBSニュース
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg", TBS NEWS DIG (youtube live)
-https://ythls-v2.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ", 朝日新聞 NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://i.imgur.com/vcGsZVD.png", HBC北海道放送 NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://i.imgur.com/yqUItvM.png", HTB北海道テレビ NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg" group-title="NEWS",STV札幌テレビ放送 NEWS  (youtube live)
-https://ythls-v2.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G8lAJYc.png" group-title="NEWS",UHB北海道文化放送 NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
+https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HxBu6ce.png" group-title="NEWS",テレビ静岡 NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
+https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PxFcRh9.jpg" group-title="NEWS",SATV静岡朝日テレビ NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
+https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/uxFYyO107Bv7FK7fq9IXh9Marf_tqrXaTin1D8gGT1Z0ladRssiXm497wQh5Nr6KbdegwKO-9Q", NST新潟総合テレビ NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
+https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ〜テレ名古屋テレビ NEWS  (youtube live)
-https://ythls-v2.onrender.com/video/-C6FE2m7kX8.m3u8
+https://ythls.armelin.one/video/-C6FE2m7kX8.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/140px-Mainichi_Broadcasting_System_logo.svg.png?20110904042013", MBS毎日放送 NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
+https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABC朝日放送テレビ NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
+https://ythls.armelin.one/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SHmYLML.jpg" group-title="NEWS",RKB毎日放送 NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
+https://ythls.armelin.one/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JBkXyvj.jpg" group-title="NEWS",TOSテレビ大分 NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
+https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/0rWYvSbmy_aI033GxIRTxdPG4Hvh7fiJlp9kj8NnYFwDlXmOHH83YR2zP-5xs9x_zKh0TOqv7Es", RBC琉球放送 NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCl27leged0PT2kIrRtrFYKA.m3u8
+https://ythls.armelin.one/channel/UCl27leged0PT2kIrRtrFYKA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
