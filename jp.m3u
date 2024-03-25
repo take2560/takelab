@@ -56,9 +56,6 @@ http://pipe.ra1n.lol/tvs/index.m3u8
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png", テレビユー福島 (vthanhtivi)
 http://pipe.ra1n.lol/tuf/index.m3u8
 
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tvq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2019_tvq_logo.svg/150px-2019_tvq_logo.svg.png", TVQ九州放送 (vthanhtivi)
-http://for-testonly.ra1n.lol/tvq/index.m3u8
-
 #DTV3 (primehome)
 
 #EXTINF:-1 tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV3 (primehome)",NHK総合 東京 (primehome)
@@ -240,10 +237,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="BS2 (primehome)" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-http://for-testonly.ra1n.lol/bs11/index.m3u8
-
-#EXTINF:-1 group-title="BS2 (primehome)" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png", BS12
-http://for-testonly.ra1n.lol/bs12/index.m3u8
+http://pipe.ra1n.lol/bs11/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (primehome)" tvg-id="bstokyu" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/l6kArOPkx3rCe-BY5PGk5Q==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS松竹東急 (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&bind=0&uin=159413&playseek=0
