@@ -51,10 +51,10 @@ https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
 https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tvsaitama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", テレビ埼玉 (vthanhtivi)
-http://for-testonly.ra1n.lol/teletama/index.m3u8
+http://pipe.ra1n.lol/tvs/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png", テレビユー福島 (vthanhtivi)
-http://for-testonly.ra1n.lol/tuf/index.m3u8
+http://pipe.ra1n.lol/tuf/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tvq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2019_tvq_logo.svg/150px-2019_tvq_logo.svg.png", TVQ九州放送 (vthanhtivi)
 http://for-testonly.ra1n.lol/tvq/index.m3u8
@@ -85,7 +85,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&b
 #EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
 
-#EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="nhkg_nara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪  (primehome)
+#EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="nhkg_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪  (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS毎日放送 (primehome)
@@ -240,7 +240,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="BS2 (primehome)" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
+http://for-testonly.ra1n.lol/bs11/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (primehome)" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png", BS12
 http://for-testonly.ra1n.lol/bs12/index.m3u8
@@ -314,7 +314,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X 2
-https://neetball.net/live/neet3.m3u8
+http://pipe.ra1n.lol/at-x/index.m3u8
 
 #CS3 (primehome)
 
