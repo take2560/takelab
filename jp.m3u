@@ -114,7 +114,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="bsntv" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS1 (720P)",BS日テレ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="bsasahi" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS1 (720P)",BS朝日 (720p Willfon)
+#EXTINF:-1 tvg-id="bsasahi" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs_asahi.png" group-title="BS1 (720P)",BS朝日 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="bstbs" tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS1 (720P)",BS-TBS (720p Willfon)
@@ -179,7 +179,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&b
 #EXTINF:-1 tvg-id="bsntv" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS2 (primehome)",BS日テレ (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 tvg-id="bsasahi" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS2 (primehome)",BS朝日 (primehome)
+#EXTINF:-1 tvg-id="bsasahi" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs_asahi.png" group-title="BS2 (primehome)",BS朝日 (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 tvg-id="bstbs" tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS2 (primehome)",BS-TBS (primehome)
@@ -404,10 +404,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&b
 #EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (480p Official1)
+#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (Official1)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (480p Official2)
+#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (Official2)
 https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/tEtAip-sN2g4DN_-G0dO1kgb8tpL4hZkJW4LDIpKECLostodleuohg1cA3hE4pOS__jZi32iFw", 日テレNEWS (youtube live)
@@ -426,34 +426,34 @@ https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://i.imgur.com/yqUItvM.png", HTB北海道テレビ NEWS (youtube live)
-https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+https://ythls-v2.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8?playlist=index
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg" group-title="NEWS",STV札幌テレビ放送 NEWS  (youtube live)
 https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G8lAJYc.png" group-title="NEWS",UHB北海道文化放送 NEWS (youtube live)
-https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
+https://ythls-v2.onrender.com/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8?playlist=index
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HxBu6ce.png" group-title="NEWS",テレビ静岡 NEWS (youtube live)
-https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
+https://ythls-v2.onrender.com/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8?playlist=index
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PxFcRh9.jpg" group-title="NEWS",SATV静岡朝日テレビ NEWS (youtube live)
 https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/uxFYyO107Bv7FK7fq9IXh9Marf_tqrXaTin1D8gGT1Z0ladRssiXm497wQh5Nr6KbdegwKO-9Q", NST新潟総合テレビ NEWS (youtube live)
-https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
+https://ythls-v2.onrender.com/channel/UCSFteALQuWkhEeKqIGVc_UQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ〜テレ名古屋テレビ NEWS  (youtube live)
-https://ythls.armelin.one/video/-C6FE2m7kX8.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ～テレ名古屋テレビ NEWS (youtubelive)
+https://ythls-v2.onrender.com/video/-C6FE2m7kX8.m3u8?playlist=index
 
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/140px-Mainichi_Broadcasting_System_logo.svg.png?20110904042013", MBS毎日放送 NEWS (youtube live)
-https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
+https://ythls-v2.onrender.com/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8?playlist=index
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABC朝日放送テレビ NEWS (youtube live)
 https://ythls.armelin.one/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SHmYLML.jpg" group-title="NEWS",RKB毎日放送 NEWS (youtube live)
-https://ythls.armelin.one/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
+https://ythls-v2.onrender.com/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8?playlist=index
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JBkXyvj.jpg" group-title="NEWS",TOSテレビ大分 NEWS (youtube live)
 https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
