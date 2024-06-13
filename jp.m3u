@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.djtmewibu.com/jp.xml" tvg-shift=0 m3uautoload=1
 
 #MAIN DTV1 (720p)
 
@@ -50,10 +50,10 @@ https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
 https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png", テレビ神奈川 (vthanhtivi)
-http://pipe.ra1n.lol/tvk/index.m3u8
+http://csui.djtmewibu.com/tvk/index.m3u8
 
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", テレビ新広島 (vthanhtivi)
-http://pipe.ra1n.lol/tss/index.m3u8
+#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="rcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/1920px-Rcc_logo_2022.svg.png", RCCテレビ (vthanhtivi)
+http://csui.djtmewibu.com/rcc/index.m3u8
 
 #DTV3 (primehome)
 
@@ -307,7 +307,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X 2
-http://pipe.ra1n.lol/at-x/index.m3u8
+http://csui.djtmewibu.com/at-x/index.m3u8
 
 #CS3 (primehome)
 
@@ -413,37 +413,31 @@ https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg", TBS NEWS DIG (youtube live)
-https://ythls-v2.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8?playlist=index
+https://ythls-v3.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ", 朝日新聞 NEWS (youtube live)
-https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+https://ythls-v3.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://i.imgur.com/vcGsZVD.png", HBC北海道放送 NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8?playlist=index
+https://ythls-v3.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://i.imgur.com/yqUItvM.png", HTB北海道テレビ NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8?playlist=index
+https://ythls-v3.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8?playlist=index
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg" group-title="NEWS",STV札幌テレビ放送 NEWS  (youtube live)
 https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HxBu6ce.png" group-title="NEWS",テレビ静岡 NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8?playlist=index
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PxFcRh9.jpg" group-title="NEWS",SATV静岡朝日テレビ NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8?playlist=index
-
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ～テレ名古屋テレビ NEWS (youtubelive)
-https://ythls-v2.onrender.com/video/-C6FE2m7kX8.m3u8?playlist=index
+https://ythls-v3.onrender.com/video/-C6FE2m7kX8.m3u8?playlist=index
 
 #EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABC朝日放送テレビ NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8?playlist=index
+https://ythls-v3.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTCTOu9HL_RPFVBxXY0a966moeSmKuklTCRcdNy", KBC九州朝日放送 NEWS (youtube live)
-https://ythls-v2.onrender.com/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8?playlist=index
+#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/qgEu_5bsC8PYrtd8fUyC2jFz5l5jPTo2vfsewNg-aQMqYAG1HeRfeDUKYFEo6FSKzTs32jlE", HOME広島テレビ NEWS (youtube live)
+https://ythls-v3.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8?playlist=index
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JBkXyvj.jpg" group-title="NEWS",TOSテレビ大分 NEWS (youtube live)
-https://ythls-v2.onrender.com/video/TwuXl6m0EHI.m3u8?playlist=index
+https://ythls-v3.onrender.com/video/TwuXl6m0EHI.m3u8?playlist=index
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
