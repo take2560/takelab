@@ -3,5 +3,5 @@ IPTV for Japan
 
 
 EPG (timeshift 0 (JST))   
-http://epg.ra1n.lol/jp.xml     
+http://epg.djtmewibu.com/jp.xml     
 
