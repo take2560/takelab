@@ -26,28 +26,28 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:2
 #DTV2 (vthanhtivi)
 
 #EXTINF:-1 tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK総合 東京 (vthanhtivi)
-http://103.179.189.178:8080/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8
+https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8
 
 #EXTINF:-1 tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK教育 (vthanhtivi)
-http://103.179.189.178:8080/d074504f-ca7a-467e-a67c-a91e69461775.m3u8
+https://vnpt.nekocdn.xyz/d074504f-ca7a-467e-a67c-a91e69461775.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",group-title="DTV2 (vthanhtivi)",日本テレビ (vthanhtivi)
-http://103.179.189.178:8080/427b3914-a2b4-401b-b5ed-706158d73908.m3u8
+https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8
 
 #EXTINF:-1 tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV2 (vthanhtivi)",TBSテレビ (vthanhtivi)
-http://103.179.189.178:8080/d90fa53e-51d2-4364-aa9b-480a883a2bfb.m3u8
+https://vnpt.nekocdn.xyz/d90fa53e-51d2-4364-aa9b-480a883a2bfb.m3u8
 
 #EXTINF:-1 tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (vthanhtivi)",フジテレビ (vthanhtivi)
-http://103.179.189.178:8080/5417ea42-1305-40d2-b318-bcc9552fe3fb.m3u8
+https://vnpt.nekocdn.xyz/5417ea42-1305-40d2-b318-bcc9552fe3fb.m3u8
 
 #EXTINF:-1 tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (vthanhtivi)",テレビ朝日 (vthanhtivi)
-http://103.179.189.178:8080/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
+https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
 
 #EXTINF:-1 tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV2 (vthanhtivi)",テレビ東京 (vthanhtivi)
-http://103.179.189.178:8080/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
+https://vnpt.nekocdn.xyz/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi)
-http://103.179.189.178:8080/b9925493-fc55-40fe-b813-07ead8974f3f.m3u8
+https://vnpt.nekocdn.xyz/b9925493-fc55-40fe-b813-07ead8974f3f.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png", テレビ神奈川 (vthanhtivi)
 http://csui.djtmewibu.com/tvk/index.m3u8
@@ -224,7 +224,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="BS2 (primehome)" tvg-id="star_ch2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-http://103.179.189.178:8080/68ea67df-d4e1-44cb-bdb9-179dd01b7db4.m3u8
+https://vnpt.nekocdn.xyz/68ea67df-d4e1-44cb-bdb9-179dd01b7db4.m3u8
 
 #EXTINF:-1 group-title="BS2 (primehome)" tvg-id="nihon_eiga" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/l6kArOPkx3rCe-BY5PGk5Q==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS松竹東急 (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&bind=0&uin=159413&playseek=0
@@ -292,7 +292,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 #CS2 (vthanhtivi)
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X 1
-http://103.179.189.178:8080/9113e313-5c50-41dd-a4a0-fda78b64580f.m3u8
+https://vnpt.nekocdn.xyz/9113e313-5c50-41dd-a4a0-fda78b64580f.m3u8
 
 #EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X 2
 http://csui.djtmewibu.com/at-x/index.m3u8
