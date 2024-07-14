@@ -419,7 +419,10 @@ https://ythls-v3.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8?playlist=ind
 https://ythls-v3.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8?playlist=index
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JBkXyvj.jpg" group-title="NEWS",TOSテレビ大分 NEWS (youtube live)
-https://ythls-v3.onrender.com/video/TwuXl6m0EHI.m3u8?playlist=index
+https://ythls-v3.onrender.com/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8?playlist=index
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/6LsJEJA0o3qVt1xT75TKfQfgfDxuqCVKUVS8R5_pC1-fMH6E52xQ29JY-5MALRJ84_wMk6ontg", Su_Root　地震監視観測ライブ
+https://ythls-v3.onrender.com/channel/UCArz15aqhp4UXuUVYYEY43g.m3u8?playlist=index
