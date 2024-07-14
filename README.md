@@ -1,3 +1,3 @@
 IPTV for Japan
-(Suitable for stable reception in Japa
+(Suitable for stable reception in Japan)
 
