@@ -397,38 +397,40 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="日テレNEWS24.jp" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (Official2)
 https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/tEtAip-sN2g4DN_-G0dO1kgb8tpL4hZkJW4LDIpKECLostodleuohg1cA3hE4pOS__jZi32iFw", 日テレNEWS (youtube live)
-https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
-
 #EXTINF:-1 group-title="NEWS" tvg-id="TBS.NEWS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png", TBSニュース
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
-
-#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg", TBS NEWS DIG (youtube live)
-https://ythls-v3.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ", 朝日新聞 NEWS (youtube live)
-https://ythls-v3.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://i.imgur.com/vcGsZVD.png", HBC北海道放送 NEWS (youtube live)
-https://ythls-v3.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-logo="https://i.imgur.com/yqUItvM.png", HTB北海道テレビ NEWS (youtube live)
-https://ythls-v3.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8?playlist=index
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg" group-title="NEWS",STV札幌テレビ放送 NEWS  (youtube live)
-https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ～テレ名古屋テレビ NEWS (youtubelive)
-https://ythls-v3.onrender.com/video/-C6FE2m7kX8.m3u8?playlist=index
-
-#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABC朝日放送テレビ NEWS (youtube live)
-https://ythls-v3.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/qgEu_5bsC8PYrtd8fUyC2jFz5l5jPTo2vfsewNg-aQMqYAG1HeRfeDUKYFEo6FSKzTs32jlE", HOME広島テレビ NEWS (youtube live)
-https://ythls-v3.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8?playlist=index
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-language="" tvg-logo="https://yt3.ggpht.com/6LsJEJA0o3qVt1xT75TKfQfgfDxuqCVKUVS8R5_pC1-fMH6E52xQ29JY-5MALRJ84_wMk6ontg", 地震速報24時間 (youtube live)
+#Youtube live
+
+#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.ggpht.com/tEtAip-sN2g4DN_-G0dO1kgb8tpL4hZkJW4LDIpKECLostodleuohg1cA3hE4pOS__jZi32iFw", 日テレNEWS (youtube live)
+https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
+
+#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.ggpht.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg", TBS NEWS DIG (youtube live)
+https://ythls-v3.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ", 朝日新聞 Youtube live (youtube live)
+https://ythls-v3.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Youtube live" tvg-id="" tvg-logo="https://i.imgur.com/vcGsZVD.png", HBC北海道放送NEWS  (youtube live)
+https://ythls-v3.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Youtube live" tvg-id="" tvg-logo="https://i.imgur.com/yqUItvM.png", HTB北海道テレビNEWS (youtube live)
+https://ythls-v3.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Youtube live" tvg-id="" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg",STV札幌テレビ放送NEWS  (youtube live)
+https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+
+#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ～テレ名古屋テレビNEWS (youtubelive)
+https://ythls-v3.onrender.com/video/-C6FE2m7kX8.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABC朝日放送テレビNEWS (youtube live)
+https://ythls-v3.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.ggpht.com/qgEu_5bsC8PYrtd8fUyC2jFz5l5jPTo2vfsewNg-aQMqYAG1HeRfeDUKYFEo6FSKzTs32jlE", HOME広島テレビNEWS (youtube live)
+https://ythls-v3.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://jquake.net/images/logo.svg", JQuake 地震速報24時間 (youtube live)
 https://ythls-v3.onrender.com/video/ExWAzLFCvWQ.m3u8?playlist=index
