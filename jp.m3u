@@ -444,10 +444,8 @@ https://ythls-v3.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8?playlist=ind
 #EXTINF:-1group-title="Youtube live" tvg-logo="https://i.imgur.com/JBkXyvj.jpg",TOSテレビ大分 NEWS (youtube live)
 https://ythls-v3.onrender.com/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://jquake.net/images/logo.svg", JQuake 地震速報24時間 (youtube live)
+#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nojmiML0cdD1tGWEshI9iaQq56B9NEGTj6UzjvEbZ7mw=s160-c-k-c0x00ffffff-no-rj", JQuake 地震速報24時間 (youtube live)
 https://ythls-v3.onrender.com/video/ExWAzLFCvWQ.m3u8?playlist=index
 
-
-
-
-
+#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK-MLoldc3E_ltVdOwVtTo3EiRSKtKnqHi3EqIIfTkfUU=s160-c-k-c0x00ffffff-no-rj", avex 24/7 Music Live (youtube live)
+https://ythls-v3.onrender.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ.m3u8?playlist=index
