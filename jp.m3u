@@ -49,9 +49,6 @@ https://vnpt.nekocdn.xyz/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi)
 https://vnpt.nekocdn.xyz/b9925493-fc55-40fe-b813-07ead8974f3f.m3u8
 
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tvh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tvh_logo.svg/150px-Tvh_logo.svg.png",テレビ北海道 (vthanhtivi TEST)
-http://r3jx.djtmewibu.com/tvh/index.m3u8
-
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="chiba_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg",千葉テレビ  (vthanhtivi TEST)
 http://r3jx.djtmewibu.com/chibatv/index.m3u8
 
