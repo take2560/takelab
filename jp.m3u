@@ -49,8 +49,14 @@ https://vnpt.nekocdn.xyz/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi)
 https://vnpt.nekocdn.xyz/b9925493-fc55-40fe-b813-07ead8974f3f.m3u8
 
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="teletama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tvs_logo.svg/1920px-Tvs_logo.svg.png",テレビ埼玉 (vthanhtivi TEST)
-http://r3jx.djtmewibu.com/tvs/index.m3u8
+#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tvh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tvh_logo.svg/150px-Tvh_logo.svg.png",テレビ北海道 (vthanhtivi TEST)
+http://r3jx.djtmewibu.com/tvh/index.m3u8
+
+#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="chiba_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg",千葉テレビ  (vthanhtivi TEST)
+http://r3jx.djtmewibu.com/chibatv/index.m3u8
+
+#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/250px-Tvk_logo.svg.png", テレビ神奈川 (vthanhtivi TEST)
+http://r3jx.djtmewibu.com/tvk/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", テレビ新広島 (vthanhtivi TEST)
 http://r3jx.djtmewibu.com/tss/index.m3u8
@@ -409,7 +415,7 @@ https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/1
 #Youtube live
 
 #EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.ggpht.com/tEtAip-sN2g4DN_-G0dO1kgb8tpL4hZkJW4LDIpKECLostodleuohg1cA3hE4pOS__jZi32iFw", 日テレNEWS (youtube live)
-https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
+https:///ythls-v3.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 
 #EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.ggpht.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg", TBS NEWS DIG (youtube live)
 https://ythls-v3.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8?playlist=index
@@ -424,7 +430,10 @@ https://ythls-v3.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8?playlist=ind
 https://ythls-v3.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Youtube live" tvg-id="" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg",STV札幌テレビ放送NEWS  (youtube live)
-https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+https://ythls-v3.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.ggpht.com/_qz_00bTo1niT5u4ZYSk2Mp6xL6kMFnat6DxfG845KoZx4BdKoqXDvKJx0YT68IqCGe6S15qt-o", 静岡朝日テレビ NEWS (youtube live)
+https://ythls-v3.onrender.com/video/SyvBMGh0AvY.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ～テレ名古屋テレビNEWS (youtubelive)
 https://ythls-v3.onrender.com/video/-C6FE2m7kX8.m3u8?playlist=index
@@ -435,5 +444,13 @@ https://ythls-v3.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://yt3.ggpht.com/qgEu_5bsC8PYrtd8fUyC2jFz5l5jPTo2vfsewNg-aQMqYAG1HeRfeDUKYFEo6FSKzTs32jlE", HOME広島テレビNEWS (youtube live)
 https://ythls-v3.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8?playlist=index
 
+#EXTINF:-1group-title="Youtube live" tvg-logo="https://i.imgur.com/JBkXyvj.jpg",TOSテレビ大分 NEWS (youtube live)
+https://ythls-v3.onrender.com/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Youtube live" tvg-language="" tvg-logo="https://jquake.net/images/logo.svg", JQuake 地震速報24時間 (youtube live)
 https://ythls-v3.onrender.com/video/ExWAzLFCvWQ.m3u8?playlist=index
+
+
+
+
+
