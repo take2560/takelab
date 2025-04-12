@@ -55,8 +55,6 @@ http://r3jx.djtmewibu.com/chibatv/index.m3u8
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/250px-Tvk_logo.svg.png", テレビ神奈川 (vthanhtivi TEST)
 http://r3jx.djtmewibu.com/tvk/index.m3u8
 
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", テレビ新広島 (vthanhtivi TEST)
-http://r3jx.djtmewibu.com/tss/index.m3u8
 
 #DTV3 (primehome)
 
