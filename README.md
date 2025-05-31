@@ -11,7 +11,7 @@ m3u links for the following domains are not available
 
 The link for this domain was an experimental test distribution and has already been discontinued. It is not expected to be restored.    
 
-cdns.jp-primehome.com] 
+[cdns.jp-primehome.com] 
 
 The link for this domain is the source of a server of a distributor that offers Japanese TV channels to Japanese residents outside Japan for a fee.
 
