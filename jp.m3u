@@ -153,6 +153,9 @@ http://vthanh.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="BSフジ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BSフジ (vthanh)
 http://vthanh.utako.moe/bsfuji/index.m3u8
 
+#EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="BS10_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png",BS10 (vthanh)
+http://vthanh.utako.moe/bs10/index.m3u8
+
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="BS11-イレブン_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11 (vthanh)
 http://vthanh.utako.moe/BS11/index.m3u8
 
