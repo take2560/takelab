@@ -50,25 +50,25 @@ http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="毎日テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS毎日放送 (vthanh)
-http://luong.utako.moe/mbs/index.m3u8
+http://vthanh.utako.moe/mbs/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="ABCテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC朝日放送 (vthanh)  
-http://luong.utako.moe/abc/index.m3u8
+http://vthanh.utako.moe/abc/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="関西テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", カンテレ (vthanh)
-http://luong.utako.moe/kansaitv/index.m3u8
+http://vthanh.utako.moe/kansaitv/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="読売テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (vthanh)
-http://luong.utako.moe/ytv/index.m3u8
+http://vthanh.utako.moe/ytv/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="テレビ大阪_jp" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", テレビ大阪 (vthanh)  
-http://luong.utako.moe/tvo/index.m3u8
+http://vthanh.utako.moe/tvo/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="KBS京都_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS京都 (vthanh)  
-http://luong.utako.moe/kbs/index.m3u8
+http://vthanh.utako.moe/kbs/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="サンテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", サンテレビ (vthanh)
-http://luong.utako.moe/suntv/index.m3u8
+http://vthanh.utako.moe/suntv/index.m3u8
 
 #BS1 (Willfon)
 
@@ -135,49 +135,49 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:2
 http://vthanh.utako.moe/NHK_BS/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="NHK・BSP_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K (vthanh)
-http://luong.utako.moe/bsp4k/index.m3u8
+http://vthanh.utako.moe/bsp4k/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="BS日テレ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS日テレ (vthanh)
-http://luong.utako.moe/bsntv/index.m3u8
+http://vthanh.utako.moe/bsntv/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="BS朝日_jp" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS朝日 (vthanh)
-http://luong.utako.moe/bsasahi/index.m3u8
+http://vthanh.utako.moe/bsasahi/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="BS-TBS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS-TBS (vthanh)
-http://luong.utako.moe/bstbs/index.m3u8
+http://vthanh.utako.moe/bstbs/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="BSテレ東_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BSテレ東 (vthanh)
-http://luong.utako.moe/bstvtokyo/index.m3u8
+http://vthanh.utako.moe/bstvtokyo/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="BSフジ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BSフジ (vthanh)
-http://luong.utako.moe/bsfuji/index.m3u8
+http://vthanh.utako.moe/bsfuji/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="BS11-イレブン_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11 (vthanh)
 http://vthanh.utako.moe/BS11/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="WOWOWプライム_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOWプライム (vthanh)
-http://luong.utako.moe/wprime/index.m3u8
+http://vthanh.utako.moe/wprime/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="WOWOWライブ_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOWライブ (vthanh)
-http://luong.utako.moe/wlive/index.m3u8
+http://vthanh.utako.moe/wlive/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="WOWOWシネマ_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOWシネマ (vthanh)
-http://luong.utako.moe/wcinema/index.m3u8
+http://vthanh.utako.moe/wcinema/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="アニマックス_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",BSアニマックス (vthanh)
 http://vthanh.utako.moe/Animax/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="J-SPORTS-1_jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSPORTS 1 (vthanh)
-http://luong.utako.moe/js1/index.m3u8
+http://vthanh.utako.moe/js1/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="J-SPORTS-2_jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSPORTS 2 (vthanh)
-http://luong.utako.moe/js2/index.m3u8
+http://vthanh.utako.moe/js2/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="J-SPORTS-3_jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSPORTS 3 (vthanh)
-http://luong.utako.moe/js3/index.m3u8
+http://vthanh.utako.moe/js3/index.m3u8
 
 #EXTINF:-1 group-title="BS2 (vthanh)" tvg-id="J-SPORTS-4_jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSPORTS 4 (vthanh)
-http://luong.utako.moe/js4/index.m3u8
+http://vthanh.utako.moe/js4/index.m3u8
 
 #CS
 
@@ -185,16 +185,16 @@ http://luong.utako.moe/js4/index.m3u8
 http://vthanh.utako.moe/AT-X/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="Pigoo_jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo
-http://luong.utako.moe/pigoo/index.m3u8
+http://vthanh.utako.moe/pigoo/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="TBSチャンネル1_jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
-http://luong.utako.moe/tbsch1/index.m3u8
+http://vthanh.utako.moe/tbsch1/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="TBSチャンネル2_jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
-http://luong.utako.moe/tbsch2/index.m3u8
+http://vthanh.utako.moe/tbsch2/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="スペースシャワーTV_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
-http://luong.utako.moe/spaceshower/index.m3u8
+http://vthanh.utako.moe/spaceshower/index.m3u8
 
 #EXTINF:-1 tvg-id="アクションチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="CS",アクションチャンネル (Willfon)
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
