@@ -203,7 +203,7 @@ http://vthanh.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="スペースシャワーTV_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
 http://vthanh.utako.moe/spaceshower/index.m3u8
 
-#EXTINF:-1 group-title="CS" tvg-id="ディズニー・チャンネル_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png",Dディズニーチャンネル
+#EXTINF:-1 group-title="CS" tvg-id="ディズニー・チャンネル_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png",ディズニーチャンネル
 http://vthanh.utako.moe/disneychan/index.m3u8
 
 #EXTINF:-1 tvg-id="アクションチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="CS",アクションチャンネル (Willfon)
