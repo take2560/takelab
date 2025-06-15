@@ -47,29 +47,8 @@ http://vthanh.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 tvg-id="テレ東_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV2 (vthanh)",テレビ東京 (vthanh)
 http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 
-#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="TOKYO・MX_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanh)
+#EXTINF:-1 tvg-id="TOKYO・MX_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanh)
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="毎日テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS毎日放送 (vthanh)
-http://vthanh.utako.moe/mbs/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="ABCテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC朝日放送 (vthanh)  
-http://vthanh.utako.moe/abc/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="関西テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", カンテレ (vthanh)
-http://vthanh.utako.moe/kansaitv/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="読売テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (vthanh)
-http://vthanh.utako.moe/ytv/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="テレビ大阪_jp" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", テレビ大阪 (vthanh)  
-http://vthanh.utako.moe/tvo/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="KBS京都_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS京都 (vthanh)  
-http://vthanh.utako.moe/kbs/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="サンテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", サンテレビ (vthanh)
-http://vthanh.utako.moe/suntv/index.m3u8
 
 #BS1 (Willfon)
 
